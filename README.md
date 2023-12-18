@@ -53,7 +53,5 @@ All requirements can be found in requirements.txt, you can install with `pip ins
 
 Adjust the script variables and parameters to meet your specific needs. For instance, you can modify the search term on PubMed or change the retry attempts for photo upload.
 
-
-# Script Configuration
 termo_pesquisa = 'Religiosity OR Spirituality' (any term or boolean combination of terms)
 max_retries = 3 (or the number you want)

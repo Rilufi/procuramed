@@ -24,8 +24,8 @@ Os requisitos se encontram todos em requirements.txt, sendo possível instalá-l
 
 Ajuste as variáveis e parâmetros do script de acordo com suas necessidades específicas. Por exemplo, você pode modificar o termo de pesquisa no PubMed ou alterar as tentativas de repetição para o upload da foto.
 
-termo_pesquisa = 'Religiosity OR Spirituality' (qualquer termo ou combinação booleana de termos)
-max_retries = 3 (quantas tentativas você deseja)
+- termo_pesquisa = 'Religiosity OR Spirituality' (qualquer termo ou combinação booleana de termos)
+- max_retries = 3 (quantas tentativas você deseja)
 
 
 # Instagram Photo Upload from PubMed Article
@@ -53,5 +53,5 @@ All requirements can be found in requirements.txt, you can install with `pip ins
 
 Adjust the script variables and parameters to meet your specific needs. For instance, you can modify the search term on PubMed or change the retry attempts for photo upload.
 
-termo_pesquisa = 'Religiosity OR Spirituality' (any term or boolean combination of terms)
-max_retries = 3 (or the number you want)
+- termo_pesquisa = 'Religiosity OR Spirituality' (any term or boolean combination of terms)
+- max_retries = 3 (or the number you want)

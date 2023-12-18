@@ -1,8 +1,11 @@
 name: Pubmed
 
 
-on: push
-#schedule aàaa
+on:
+
+    schedule:
+
+        - cron: '0 23 * * *'
 
 jobs:
   tweet:

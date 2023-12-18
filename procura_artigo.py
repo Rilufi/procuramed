@@ -10,6 +10,7 @@ import os
 import math
 from instagrapi import Client
 from instagrapi.exceptions import ClientError
+from selenium.webdriver.common.by import By
 
 #calling secret variables
 USUARIO = os.environ.get("USUARIO")
@@ -80,7 +81,7 @@ if response.status_code == 200:
     time.sleep(2)
 
     # Rola a página para baixo
-    driver.find_element_by_tag_name('body').send_keys(Keys.DOWN + Keys.DOWN + Keys.DOWN)
+    driver.find_element(By.TAG_NAME,'body').send_keys(Keys.DOWN + Keys.DOWN + Keys.DOWN)
 
     # Atraso antes de capturar a tela
     time.sleep(5)

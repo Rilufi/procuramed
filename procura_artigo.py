@@ -69,6 +69,8 @@ if response.status_code == 200:
 
 {abstract}"""
 
+        titulo_string = f"{titulo}"
+
 
     else:
         print(f'Erro ao acessar o artigo: {response_artigo.status_code}')
@@ -103,6 +105,7 @@ retry_count = 0
 
 while retry_count < max_retries:
     try:
+        # Tentativa de upload com a legenda padrão
         cl.photo_upload('screenshot.png', insta_string)
         print("foto publicada no insta")
         break  # Break the loop if upload is successful
@@ -111,7 +114,15 @@ while retry_count < max_retries:
         retry_count += 1
         if retry_count < max_retries:
             print(f"Retrying... (Attempt {retry_count}/{max_retries})")
-            if "403" in str(e):  # Check if the error message contains "403"
+
+            # Verificar se o erro é devido à legenda muito longa
+            if "Caption too long" in str(e):
+                print("Caption too long. Trying with the title instead.")
+                # Tentativa de upload com a legenda do título
+                cl.photo_upload('screenshot.png', titulo_string)
+                print("Foto publicada no insta usando a legenda do título.")
+                break  # Break the loop if upload is successful
+            elif "403" in str(e):  # Check if the error message contains "403"
                 print("Exiting script due to 403 Forbidden error.")
                 break  # Break the loop if 403 Forbidden error occurs during upload
         else:

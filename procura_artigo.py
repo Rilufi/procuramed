@@ -7,7 +7,6 @@ import time
 import requests
 import json
 import os
-#import math
 from instagrapi import Client
 from instagrapi.exceptions import ClientError
 from selenium.webdriver.common.by import By

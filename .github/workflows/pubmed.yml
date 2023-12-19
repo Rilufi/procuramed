@@ -1,11 +1,11 @@
 name: Pubmed
 
 
-on:
+on: push
 
-    schedule:
+  #  schedule:
 
-        - cron: '0 23 * * *'
+  #      - cron: '0 23 * * *'
 
 jobs:
   tweet:

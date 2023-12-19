@@ -29,7 +29,7 @@ except ClientError as e:
         pass
 
 url = 'https://pubmed.ncbi.nlm.nih.gov/'
-termo_pesquisa = '(spirituality OR religiosity) AND (medicine)'
+termo_pesquisa = '(spirituality OR religiosity) AND (medical practice OR medical education)'
 
 # Realiza uma pesquisa no PubMed
 params = {'term': termo_pesquisa,

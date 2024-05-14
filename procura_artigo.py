@@ -108,6 +108,23 @@ else:
     print(f'Erro na pesquisa PubMed: {response.status_code}')
 
 
+# Caminho para o arquivo de texto onde a legenda será salva
+legenda_arquivo = 'legenda.txt'
+
+# Verifica se a legenda atual é diferente da legenda anterior
+with open(legenda_arquivo, 'r') as file:
+    legenda_anterior = file.read().strip()
+
+# Comparar a legenda atual com a legenda anterior
+if insta_string.strip() == legenda_anterior:
+    print("A legenda é igual à anterior. Não há novos artigos para publicar.")
+    sys.exit()  # Sai do script porque não há artigos novos
+
+# Salva a legenda atual no arquivo de texto
+with open(legenda_arquivo, 'w') as file:
+    file.write(insta_string.strip())
+
+
 max_retries = 3
 retry_count = 0
 

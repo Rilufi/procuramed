@@ -40,6 +40,7 @@ jobs:
           SENHA: ${{ secrets.SENHA }}
           TELE_USER: ${{ secrets.TELE_USER }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          GOOGLE_API_KEY:  ${{ secrets.GOOGLE_API_KEY }}
         run: |
           python procura_artigo.py
 

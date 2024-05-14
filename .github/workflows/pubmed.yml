@@ -1,6 +1,6 @@
 name: Pubmed
 
-on: #push
+on: push
 
 jobs:
   publish_article:

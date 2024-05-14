@@ -1,31 +1,29 @@
 name: Pubmed
 
-
-on: push
-
- #   schedule:
-
-#        - cron: '0 23 * * *'
+on:
+  push:
+    branches:
+      - main  # Execute o fluxo de trabalho apenas quando houver push na branch principal
 
 jobs:
-  tweet:
-    name: Insta
+  publish_article:
+    name: Publicar Artigo no Instagram
     
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout 🛎
+      - name: Checkout do código
         uses: actions/checkout@v2
         
-      - name: Keep this repo alive
+      - name: Manter o fluxo de trabalho ativo
         uses: entepotenz/keep-github-actions-alive-min-dependencies@v1
      
-      - name: Set up Python 🐍
+      - name: Configurar o ambiente Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
 
-      - name: Cache Python packages 💾
+      - name: Cache de pacotes Python
         uses: actions/cache@v2
         with:
           path: ~/.cache/pip
@@ -34,20 +32,24 @@ jobs:
             ${{ runner.os }}-pip-
             ${{ runner.os }}-
 
-      - name: Install packages ⚙
+      - name: Instalar dependências Python
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Use HEREDOC for `run` to escape possible single and double quotes in the message.
-      - name: publica insta
+      - name: Executar script Python para encontrar artigo e postar no Instagram
         env:
-                  USUARIO: ${{ secrets.USUARIO }}
+          USUARIO: ${{ secrets.USUARIO }}
+          SENHA: ${{ secrets.SENHA }}
+          TELE_USER: ${{ secrets.TELE_USER }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        run: |
+          python procura_artigo.py
 
-                  SENHA: ${{ secrets.SENHA }}
-
-                  TELE_USER: ${{ secrets.TELE_USER }}
-
-                  TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-      
-        run: python procura_artigo.py
+      - name: Atualizar arquivo de legenda
+        run: |
+          git config --global user.email "github-actions@example.com"
+          git config --global user.name "GitHub Actions"
+          git add legenda.txt
+          git commit -m "Atualizar arquivo de legenda [skip ci]"  # Ignorar a execução do workflow para este commit
+          git push

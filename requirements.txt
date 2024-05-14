@@ -3,3 +3,4 @@ Pillow>=8.1.1
 bs4
 selenium
 pyTelegramBotAPI
+google-generativeai

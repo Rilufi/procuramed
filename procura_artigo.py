@@ -23,6 +23,8 @@ TOKEN = os.environ["TELEGRAM_TOKEN"]
 GOOGLE_API_KEY=os.environ["GOOGLE_API_KEY"]
 genai.configure(api_key=GOOGLE_API_KEY)
 
+
+#logando no Insta
 try:
     cl = Client(request_timeout=7)
     cl.login(USUARIO, SENHA)
@@ -38,10 +40,11 @@ except ClientError as e:
         bot.send_message(tele_user, 'procuramed com problema pra logar')
         sys.exit()
 
+
+# Realiza uma pesquisa no PubMed
 url = 'https://pubmed.ncbi.nlm.nih.gov/'
 termo_pesquisa = '(spirituality OR religiosity) AND (medical practice OR medical education)'
 
-# Realiza uma pesquisa no PubMed
 params = {'term': termo_pesquisa,
           'sort': 'date'}
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
@@ -75,11 +78,9 @@ if response.status_code == 200:
         # Imprime as informações
         print(f'Title: {titulo}\nAbstract: {abstract}')
 
-
-        # Choose a GenAI model (e.g., 'gemini-pro')
         model = genai.GenerativeModel('gemini-pro')
 
-                # Função para gerar conteúdo traduzido usando o modelo GenAI
+        # Função para gerar conteúdo traduzido usando o modelo GenAI
         def gerar_traducao(prompt):
                 response = model.generate_content(prompt)
                 # Verifique se a resposta contém candidatos e se a lista não está vazia

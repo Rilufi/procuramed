@@ -10,10 +10,16 @@ import os
 from instagrapi import Client
 from instagrapi.exceptions import ClientError
 from selenium.webdriver.common.by import By
+import telebot
+import sys
+
 
 #calling secret variables
 USUARIO = os.environ.get("USUARIO")
 SENHA = os.environ.get("SENHA")
+tele_user = os.environ.get("TELE_USER")
+TOKEN = os.environ["TELEGRAM_TOKEN"]
+
 
 try:
     cl = Client(request_timeout=7)
@@ -23,10 +29,12 @@ except ClientError as e:
     if e.status_code == 403:
         print(f"Error during login: {e}")
         print("Exiting script due to 403 Forbidden error.")
-        exit()
+        bot.send_message(tele_user, 'procuramed com problema pra logar')
+        sys.exit()
     else:
         print('bot deslogado')
-        pass
+        bot.send_message(tele_user, 'procuramed com problema pra logar')
+        sys.exit()
 
 url = 'https://pubmed.ncbi.nlm.nih.gov/'
 termo_pesquisa = '(spirituality OR religiosity) AND (medical practice OR medical education)'

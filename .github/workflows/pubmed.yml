@@ -1,11 +1,11 @@
 name: Pubmed
 
 
-on:
+on: push
 
-    schedule:
+ #   schedule:
 
-        - cron: '0 23 * * *'
+#        - cron: '0 23 * * *'
 
 jobs:
   tweet:
@@ -45,5 +45,9 @@ jobs:
                   USUARIO: ${{ secrets.USUARIO }}
 
                   SENHA: ${{ secrets.SENHA }}
-                  
+
+                  TELE_USER: ${{ secrets.TELE_USER }}
+
+                  TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+      
         run: python procura_artigo.py

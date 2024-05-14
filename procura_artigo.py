@@ -95,12 +95,12 @@ if response.status_code == 200:
         prompt_combinado = f"Given the following scientific text from a reputable source (Pubmed) in English, translate it accurately and fluently into grammatically correct Brazilian Portuguese while preserving the scientific meaning:\n{titulo}\n{abstract}"
         
         try:
-        	traducao_combinada = gerar_traducao(prompt_combinado)
-        	# Separe a tradução combinada em título e explicação
-        	titulo_traduzido, explicacao_traduzida = traducao_combinada.split('\n', 1)
+            traducao_combinada = gerar_traducao(prompt_combinado)
+            # Separe a tradução combinada em título e explicação
+            titulo_traduzido, explicacao_traduzida = traducao_combinada.split('\n', 1)
         
-        	# Use as traduções na string do Instagram
-        	insta_string = f"""{titulo_traduzido}
+            # Use as traduções na string do Instagram
+            insta_string = f"""{titulo_traduzido}
         
 {explicacao_traduzida}"""
             

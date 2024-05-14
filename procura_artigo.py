@@ -12,6 +12,7 @@ from instagrapi.exceptions import ClientError
 from selenium.webdriver.common.by import By
 import telebot
 import sys
+import google.generativeai as genai
 
 
 #calling secret variables
@@ -19,7 +20,8 @@ USUARIO = os.environ.get("USUARIO")
 SENHA = os.environ.get("SENHA")
 tele_user = os.environ.get("TELE_USER")
 TOKEN = os.environ["TELEGRAM_TOKEN"]
-
+GOOGLE_API_KEY=os.environ["GOOGLE_API_KEY"]
+genai.configure(api_key=GOOGLE_API_KEY)
 
 try:
     cl = Client(request_timeout=7)
@@ -73,11 +75,49 @@ if response.status_code == 200:
         # Imprime as informações
         print(f'Title: {titulo}\nAbstract: {abstract}')
 
-        insta_string = f""" {titulo}
 
+        # Choose a GenAI model (e.g., 'gemini-pro')
+        model = genai.GenerativeModel('gemini-pro')
+
+                # Função para gerar conteúdo traduzido usando o modelo GenAI
+        def gerar_traducao(prompt):
+                response = model.generate_content(prompt)
+                # Verifique se a resposta contém candidatos e se a lista não está vazia
+                if response.candidates and len(response.candidates) > 0:
+                    if response.candidates[0].content.parts and len(response.candidates[0].content.parts) > 0:
+                        return response.candidates[0].content.parts[0].text
+                    else:
+                        print("Nenhuma parte de conteúdo encontrada na resposta.")
+                else:
+                    print(f"Nenhum candidato válido encontrado, tentando novamente... ({retries+1}/{max_retries})")
+            
+        # Combinar o título e a explicação em um único prompt
+        prompt_combinado = f"Given the following scientific text from a reputable source (Pubmed) in English, translate it accurately and fluently into grammatically correct Brazilian Portuguese while preserving the scientific meaning:\n{titulo}\n{abstract}"
+        
+        try:
+        	traducao_combinada = gerar_traducao(prompt_combinado)
+        	# Separe a tradução combinada em título e explicação
+        	titulo_traduzido, explicacao_traduzida = traducao_combinada.split('\n', 1)
+        
+        	# Use as traduções na string do Instagram
+        	insta_string = f"""{titulo_traduzido}
+        
+{explicacao_traduzida}"""
+            
+            print(insta_string)
+            titulo_string = f"{titulo_traduzido}"
+
+        #se não conseguir traduzir, posta em inglês mesmo
+        except AttributeError:
+            insta_string = f""" {titulo}
+    
 {abstract}"""
-
-        titulo_string = f"{titulo}"
+            	
+            print(insta_string)
+    
+    
+    
+            titulo_string = f"{titulo}"
 
 
     else:

@@ -1,9 +1,6 @@
 name: Pubmed
 
-on:
-  push:
-    branches:
-      - main  # Execute o fluxo de trabalho apenas quando houver push na branch principal
+on: #push
 
 jobs:
   publish_article:

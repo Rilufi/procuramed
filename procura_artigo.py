@@ -16,7 +16,7 @@ USUARIO = os.environ.get("USUARIO")
 SENHA = os.environ.get("SENHA")
 tele_user = os.environ.get("TELE_USER")
 TOKEN = os.environ["TELEGRAM_TOKEN"]
-GOOGLE_API_KEY=os.environ["GOOGLE_API_KEY"]
+GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Logando no Insta
@@ -96,16 +96,16 @@ if response.status_code == 200:
             insta_string = f"{titulo_traduzido}\n\n{abstract_traduzido}"
             print(insta_string)
 
-
             if len(insta_string) > 2200:
-                gerar_traducao(f"Faça um resumo de até 2200 caracteres do seguinte texto científico:{insta_string}")
-   
+                insta_string = gerar_traducao(f"Faça um resumo de até 2200 caracteres do seguinte texto científico:\n{insta_string}")
+
         # Se não conseguir traduzir, poste em inglês
         except AttributeError:
             insta_string = f"{titulo}\n\n{abstract}"
             print(insta_string)
-                if len(insta_string) > 2200:
-                    insta_string = f"{titulo}"
+
+            if len(insta_string) > 2200:
+                insta_string = f"{titulo}"
 
     else:
         print(f'Erro ao acessar o artigo: {response_artigo.status_code}')
@@ -134,7 +134,6 @@ if response.status_code == 200:
     # Caminho para o arquivo de texto onde a legenda será salva
     legenda_arquivo = 'legenda.txt'
 
-
     # Verifica se a legenda atual é diferente da legenda anterior
     with open(legenda_arquivo, 'r') as file:
         legenda_anterior = file.read().strip()
@@ -147,7 +146,7 @@ if response.status_code == 200:
         # Salva a legenda atual no arquivo de texto
         with open(legenda_arquivo, 'w') as file:
             file.write(insta_string.strip())
-    
+
     # Tentativa de upload da foto com a legenda
     max_retries = 3
     retry_count = 0
@@ -168,7 +167,7 @@ if response.status_code == 200:
                 if "Caption too long" in str(e):
                     print("Legenda muito longa. Tentando com o título.")
                     # Tentativa de upload com a legenda do título
-                    cl.photo_upload('screenshot.png', titulo_string)
+                    cl.photo_upload('screenshot.png', titulo)
                     print("Foto publicada no Instagram usando o título.")
                     break  # Encerra o loop se o upload for bem-sucedido
                 elif "403" in str(e):  # Verifica se a mensagem de erro contém "403"

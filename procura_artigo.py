@@ -96,10 +96,16 @@ if response.status_code == 200:
             insta_string = f"{titulo_traduzido}\n\n{abstract_traduzido}"
             print(insta_string)
 
+
+            if len(insta_string) > 2200:
+                gerar_traducao(f"Faça um resumo de até 2200 caracteres do seguinte texto científico:{insta_string}")
+   
         # Se não conseguir traduzir, poste em inglês
         except AttributeError:
             insta_string = f"{titulo}\n\n{abstract}"
             print(insta_string)
+                if len(insta_string) > 2200:
+                    insta_string = f"{titulo}"
 
     else:
         print(f'Erro ao acessar o artigo: {response_artigo.status_code}')

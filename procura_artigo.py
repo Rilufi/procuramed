@@ -128,9 +128,6 @@ if response.status_code == 200:
     # Caminho para o arquivo de texto onde a legenda será salva
     legenda_arquivo = 'legenda.txt'
 
-    # Salva a legenda atual no arquivo de texto
-    with open(legenda_arquivo, 'w') as file:
-        file.write(insta_string.strip())
 
     # Verifica se a legenda atual é diferente da legenda anterior
     with open(legenda_arquivo, 'r') as file:
@@ -140,7 +137,11 @@ if response.status_code == 200:
     if insta_string.strip() == legenda_anterior:
         print("A legenda é igual à anterior. Não há novos artigos para publicar.")
         sys.exit()  # Sai do script porque não há artigos novos
-
+    else:
+        # Salva a legenda atual no arquivo de texto
+        with open(legenda_arquivo, 'w') as file:
+            file.write(insta_string.strip())
+    
     # Tentativa de upload da foto com a legenda
     max_retries = 3
     retry_count = 0

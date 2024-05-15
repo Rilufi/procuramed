@@ -1,1 +1,42 @@
-ababuble
+Medidas prioritárias para prevenir infecções e manter o bem-estar dos residentes durante surtos de COVID-19 em lares de idosos: consenso entre representantes dos funcionários e dos residentes determinado por um estudo de técnica de grupo nominal online.
+
+
+Antecedentes:
+
+As medidas de prevenção contra infecção por COVID-19 podem impactar negativamente o bem-estar dos residentes de asilos. A sociedade tem se preocupado com o desequilíbrio entre prevenção de infecção e bem-estar dos residentes, e sobre a autonomia dos residentes de lares de idosos na formulação de políticas sobre a COVID-19.
+
+Objetivo:
+
+Esse estudo explora o consenso entre funcionários de lares de idosos sobre quais medidas eles consideram mais importantes para contribuir na prevenção de infecções e na manutenção do bem-estar dos residentes durante os surtos de COVID-19. Além disso, esse estudo explora os processos decisórios relacionados às medidas de COVID-19 e o envolvimento dos residentes ou seus representantes.
+
+Projeto:
+
+Métodos mistos baseados em uma técnica de grupo nominal online.
+
+Cenários:
+
+Lares de idosos holandeses, de junho a novembro de 2020.
+
+Participantes:
+
+Gerentes, conselheiros políticos, médicos de tratamento de idosos, psicólogos, um conselheiro espiritual, enfermeiros, auxiliares de enfermagem e representantes de moradores (N = 35).
+
+Métodos:
+
+Foram executados quatro painéis a partir da perspectiva da prevenção de infecção e quatro painéis a partir da perspectiva do bem-estar com 3 a 7 participantes por painel. Os participantes selecionaram individualmente a medida que consideravam mais importante, discutiram essas medidas juntos em uma conversa online e avaliaram a importância e a urgência dessas medidas durante os surtos de COVID-19 em uma escala Likert de 5 pontos. As medidas que foram classificadas como (muito) importantes e (muito) urgentes por todos os membros desse painel foram definidas como "priorizadas no consenso". Os painéis também discutiram o processo decisório relacionado às medidas de COVID-19 e o envolvimento dos residentes ou representantes deles. Essas conversas foram transcritas literalmente e codificadas tematicamente usando uma abordagem indutiva.
+
+Resultados:
+
+Os painéis de prevenção de infecção priorizaram medidas de isolamento; medidas de teste; combinações de teste e isolamento; uso de equipamento de proteção individual em torno de residentes (suspeitos) infectados; e preparação para surtos por equipes de surto de COVID-19. Os painéis de bem-estar priorizaram o isolamento de coorte, teste combinado com isolamento de coorte e com isolamento nos quartos dos residentes, exceções às proibições de visitas, número máximo de visitantes e registro e acompanhamento de visitantes aos quartos dos residentes. Representantes dos residentes e funcionários ficaram insatisfeitos com sua participação reduzida na formulação de políticas durante os primeiros meses da pandemia de COVID-19, embora entendessem que as decisões precisavam ser tomadas rapidamente.
+
+Conclusão:
+
+Funcionários e representantes dos residentes devem estar envolvidos na formulação de políticas sobre a COVID-19. Segundo eles, as medidas prioritárias de COVID-19 devem incluir: isolamento de coorte, combinações de teste e isolamento, uso de equipamento de proteção individual, gerenciamento de crise pelas equipes de surto de COVID-19 e regulamentações de visitas a lares de idosos e instruções aos visitantes. Combinar essas medidas pode ser o primeiro passo para pacotes de medidas de COVID-19 que equilibrem melhor a prevenção de infecções e a manutenção do bem-estar dos residentes.
+
+Registro:
+
+N/A.
+
+Resumo para Twitter:
+
+As medidas prioritárias de COVID-19 em lares de idosos são isolamento, teste, combinações de teste e isolamento, uso de EPI, preparações por equipes de surto e regulamentos de visitas @wilcoachterberg.

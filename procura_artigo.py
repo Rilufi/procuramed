@@ -156,7 +156,7 @@ if response.status_code == 200:
         try:
             # Tentativa de upload com a legenda
             cl.photo_upload('screenshot.png', insta_string)
-            print("Foto publicada no Instagram")
+            print("Foto publicada no Instagram com a legenda")
             break  # Encerra o loop se o upload for bem-sucedido
         except ClientError as e:
             print(f"Erro durante o upload da foto: {e}")

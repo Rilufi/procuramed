@@ -1,37 +1,40 @@
-**Resumo das Medidas Prioritárias para Prevenir Infecções e Manter o Bem-Estar em Lares de Idosos Durante Surtos de COVID-19**
-
 **Introdução**
 
-Surtos de COVID-19 em lares de idosos destacam a necessidade de medidas equilibradas de prevenção de infecções e manutenção do bem-estar dos residentes. Este estudo examina as medidas prioritárias identificadas por funcionários e representantes de residentes para mitigar esses desafios.
+A pandemia de COVID-19 impôs medidas de prevenção de infecção em casas de repouso, afetando o bem-estar dos residentes. Este estudo investiga medidas prioritárias para equilibrar a prevenção de infecções com o bem-estar dos residentes, explorando o consenso entre funcionários e representantes dos residentes.
 
 **Métodos**
 
-Foram realizados painéis de técnica nominal de grupo online envolvendo funcionários e representantes de residentes de lares de idosos holandeses. Os participantes selecionaram, discutiram e classificaram medidas importantes para prevenção de infecções e bem-estar durante surtos de COVID-19.
+Usando a técnica de grupo nominal online, foram realizados painéis virtuais com funcionários (gerentes, médicos, enfermeiros, assistentes de cuidados) e representantes de residentes de casas de repouso holandesas. Os participantes classificaram medidas de prevenção de infecção e bem-estar e discutiram processos de tomada de decisão e envolvimento de residentes.
 
-**Resultados: Prevenção de Infecções**
+**Resultados**
 
-As medidas prioritárias consensuais incluíram isolamento, testagem, combinações de isolamento e testagem, uso de equipamentos de proteção individual (EPIs) e preparação de equipes de surto.
+**Prevenção de Infecção**
 
-**Resultados: Bem-estar**
+* Isolamento
+* Testes
+* Uso de EPI
+* Preparação para surtos por equipes de surto
 
-Medidas prioritárias para bem-estar foram: isolamento por coorte, combinações de testagem e isolamento, exceções às proibições de visitas, limitação do número de visitantes e rastreamento de visitantes.
+**Bem-Estar**
 
-**Envolvimento na Tomada de Decisão**
+* Isolamento de coorte
+* Combinações de teste e isolamento
+* Exceções às proibições de visitantes
+* Número máximo de visitantes
+* Registro e acompanhamento de visitantes
 
-Funcionários e representantes de residentes expressaram insatisfação com seu envolvimento limitado na formulação de políticas de COVID-19 no início da pandemia. Eles enfatizaram a importância de seu envolvimento para garantir o equilíbrio entre prevenção de infecções e bem-estar.
+**Discussão**
 
-**Medidas Combinadas**
+Representantes de residentes e funcionários expressaram insatisfação com a participação limitada na formulação de políticas no início da pandemia. No entanto, eles reconheceram a necessidade de decisões rápidas.
 
-Os participantes sugeriram combinar medidas prioritárias para desenvolver pacotes abrangentes que promovam a prevenção de infecções e o bem-estar dos residentes.
+**Medidas Prioritárias**
 
-**Considerações Éticas**
-
-Embora o envolvimento dos residentes seja crucial, os funcionários também reconheceram a necessidade de tomar decisões rápidas em tempos de crise de saúde pública.
-
-**Implicações**
-
-Representantes de funcionários e residentes devem participar da formulação de políticas de COVID-19 em lares de idosos. As medidas prioritárias identificadas neste estudo podem orientar o desenvolvimento de pacotes de medidas eficazes que equilibrem a prevenção de infecções e o bem-estar dos residentes durante os surtos de COVID-19.
+* Isolamento de coorte
+* Combinações de teste e isolamento
+* Uso de EPI
+* Gerenciamento de crise por equipes de surto
+* Regulamentos e instrução de visitantes
 
 **Conclusão**
 
-Este estudo fornece insights valiosos sobre as medidas prioritárias para prevenir infecções e manter o bem-estar dos residentes em lares de idosos durante surtos de COVID-19. O engajamento ativo de funcionários e representantes de residentes é essencial para garantir políticas equilibradas que atendam às diversas necessidades dos residentes e promovam sua saúde e qualidade de vida.
+O envolvimento de funcionários e representantes de residentes é crucial na formulação de políticas contra a COVID-19. As medidas prioritárias identificadas neste estudo visam equilibrar a prevenção de infecções com o bem-estar dos residentes, incluindo isolamento, teste, regulamentos de visitas e preparação para surtos.

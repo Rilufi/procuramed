@@ -1,69 +1,27 @@
-Priority measures to prevent infections and maintain residents' well-being during COVID-19 outbreaks in nursing homes: Consensus among staff and resident representatives determined in an online nominal group technique study
+What Is It Like to Be in Alcohol Addiction Recovery? A Dialectical Phenomenological Analysis
 
-Background:
+Introduction:
         
       
-      COVID-19 infection prevention measures can negatively impact nursing home residents' well-being. Society has been concerned about the imbalance between infection prevention and residents' well-being, and about nursing home residents' autonomy in COVID-19 policymaking.
-    
-
-
-          Objective:
-        
-      
-      This study explores consensus among nursing home staff about which measures they found to be most important in contributing to preventing infections and to maintaining well-being of residents during COVID-19 outbreaks. In addition, this study explores the decision-making processes regarding COVID-19 measures and the involvement of residents or their representatives.
-    
-
-
-          Design:
-        
-      
-      Mixed methods based on an online nominal group technique.
-    
-
-
-          Settings:
-        
-      
-      Dutch nursing homes, June-November 2020.
-    
-
-
-          Participants:
-        
-      
-      Managers, policy advisors, elderly care physicians, psychologists, a spiritual counselor, nurses, care assistants, and resident representatives (N = 35).
+      Currently, there is no scientific consensus on the concept of alcohol addiction recovery beyond substance use control. This conceptual issue challenges the implementation of therapeutic strategies and mental health policies that are unrestricted to symptomatic remission. Aiming to contribute to its definition, this study aimed to examine the recovery experience of individuals with alcohol addiction using dialectical phenomenological psychopathology (DPP) as a theoretical and methodological framework.
     
 
 
           Methods:
         
       
-      Four panels from the viewpoint of infection prevention, and four panels from the viewpoint of well-being were performed with 3 to 7 participants per panel. Participants individually selected the measure they found most important, discussed these measures together in an online conversation, and rated the importance and urgency of these measures during COVID-19 outbreaks on a 5-point Likert scale. The measures that were rated as (very) important and (very) urgent by all members of that panel were defined as 'prioritized in consensus'. Panels also discussed the decision-making process regarding COVID-19 measures and the involvement of residents or their representatives. These conversations were transcribed verbatim and thematically coded using an inductive approach.
+      A dialectical phenomenological analysis was conducted through an examination of online interviews with eight Brazilian, São Paulo state citizens who were self-declared to be undergoing alcohol addiction recovery (or who declared that they had completely recovered).
     
 
 
           Results:
         
       
-      The infection prevention panels prioritized isolation measures; testing measures; testing and isolation combinations; use of personal protective equipment around (suspected) infected residents; and preparation for outbreaks by COVID-19 outbreak teams. The well-being panels prioritized cohort isolation, testing combined with cohort isolation and with isolation in residents' rooms, exceptions to visitor bans, maximum numbers of visitors, and registration and accompanying visitors to the residents' rooms. Resident representatives and staff were dissatisfied with their reduced involvement in policy making during the first months of the COVID-19 pandemic, although they understood that decisions had to be made quickly.
+      Participants' reports generated eight categories that were subdivided into two groups. The first group indicated experiential elements of recovery, such as changes in self-relation, changes in interpersonal relations, and changes in time relations, giving new meanings to suffering and alcohol use, and recovery as a continuous process. The second group referred to how the participants interpreted recovery according to their worldviews: as a spiritual experience, moral reformation, and mentality change.
     
 
 
-          Conclusions:
+          Conclusion:
         
       
-      Staff and resident representatives should be involved in COVID-19 policy making. According to them, priority COVID-19 measures should include: cohort isolation, testing and isolation combinations, use of personal protective equipment, crisis management by COVID-19 outbreak teams, and nursing home visit regulations and instruction of visitors. Combining these measures may be a first step towards packages of COVID-19 measures that better balance infection prevention and maintaining residents' well-being.
-    
-
-
-          Registration:
-        
-      
-      N/A.
-    
-
-
-          Tweetable abstract:
-        
-      
-      Priority COVID-19 nursing home measures are isolation, testing, testing and isolation combinations, PPE use, preparations by outbreak teams, and visit regulations @wilcoachterberg.
+      These categories can be understood through the lens of DPP as a process of change in the subjects' being in the world, characterized by the continued management of their existential imbalances in the dimensions of spatiality, temporality, selfhood, and intersubjectivity. The results are preliminary when it comes to conceptualizing recovery but may help future studies to develop recovery-oriented therapeutic strategies.

@@ -1,27 +1,27 @@
-What Is It Like to Be in Alcohol Addiction Recovery? A Dialectical Phenomenological Analysis
+Wiidookaage'win: Beta-test of a Facebook group intervention for native women to support opioid use recovery
 
 Introduction:
         
       
-      Currently, there is no scientific consensus on the concept of alcohol addiction recovery beyond substance use control. This conceptual issue challenges the implementation of therapeutic strategies and mental health policies that are unrestricted to symptomatic remission. Aiming to contribute to its definition, this study aimed to examine the recovery experience of individuals with alcohol addiction using dialectical phenomenological psychopathology (DPP) as a theoretical and methodological framework.
+      The ongoing opioid misuse epidemic has had a marked impact on American Indian/Alaska Native (AI/AN) communities. Culture- and gender-specific barriers to medically assisted recovery from opioid use disorder (OUD) have been identified, exacerbating its impact for AI/AN women. Wiidookaage'win is a community-based participatory research study that aims to develop a culturally tailored, moderated, private Facebook group intervention to support Minnesotan AI/AN women in medically assisted recovery from OUD. The current study assessed the preliminary feasibility and acceptability of the intervention in a beta-test to inform refinements before conducting a pilot randomized controlled trial (RCT).
     
 
 
           Methods:
         
       
-      A dialectical phenomenological analysis was conducted through an examination of online interviews with eight Brazilian, São Paulo state citizens who were self-declared to be undergoing alcohol addiction recovery (or who declared that they had completely recovered).
+      The intervention was beta-tested for 30 days. Moderators were trained prior to delivering the intervention. Study assessments were conducted at baseline and post-intervention. The post-intervention assessments included substance use (self-report and urine drug screen), treatment acceptability, mental health, and spirituality outcomes. We examined intervention engagement patterns using Facebook metrics and qualitatively explored common topics that emerged in participant posts and comments.
     
 
 
           Results:
         
       
-      Participants' reports generated eight categories that were subdivided into two groups. The first group indicated experiential elements of recovery, such as changes in self-relation, changes in interpersonal relations, and changes in time relations, giving new meanings to suffering and alcohol use, and recovery as a continuous process. The second group referred to how the participants interpreted recovery according to their worldviews: as a spiritual experience, moral reformation, and mentality change.
+      Ten AI/AN women taking medication for OUD (MOUD) were accrued (age range 25-62 years). Participants had been in opioid recovery a mean of 15.2 months (SD = 16.1; range = 3-60). The study participation rate (accrued/eligible) was 91 %. Nine participants completed the post-intervention survey assessment and eight completed a UDS. Acceptability was high based on the mean treatment satisfaction score (M = 4.8, SD = 0.2 out of a possible 5.0), Facebook group engagement, and positive qualitative feedback. All participants retained at post-intervention continued their MOUD treatment, and none had returned to opioid use.
     
 
 
-          Conclusion:
+          Conclusions:
         
       
-      These categories can be understood through the lens of DPP as a process of change in the subjects' being in the world, characterized by the continued management of their existential imbalances in the dimensions of spatiality, temporality, selfhood, and intersubjectivity. The results are preliminary when it comes to conceptualizing recovery but may help future studies to develop recovery-oriented therapeutic strategies.
+      The beta-test indicated that the Facebook platform and study procedures generally worked as intended and that the intervention was largely acceptable to study participants. The results of this study phase provided valuable insights to inform refinements prior to conducting a pilot RCT to further assess the feasibility, acceptability, and potential efficacy of the intervention.

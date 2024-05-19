@@ -1,27 +1,3 @@
-Wiidookaage'win: Beta-test of a Facebook group intervention for native women to support opioid use recovery
+Dismantling the myth of "all foods fit" in eating disorder treatment
 
-Introduction:
-        
-      
-      The ongoing opioid misuse epidemic has had a marked impact on American Indian/Alaska Native (AI/AN) communities. Culture- and gender-specific barriers to medically assisted recovery from opioid use disorder (OUD) have been identified, exacerbating its impact for AI/AN women. Wiidookaage'win is a community-based participatory research study that aims to develop a culturally tailored, moderated, private Facebook group intervention to support Minnesotan AI/AN women in medically assisted recovery from OUD. The current study assessed the preliminary feasibility and acceptability of the intervention in a beta-test to inform refinements before conducting a pilot randomized controlled trial (RCT).
-    
-
-
-          Methods:
-        
-      
-      The intervention was beta-tested for 30 days. Moderators were trained prior to delivering the intervention. Study assessments were conducted at baseline and post-intervention. The post-intervention assessments included substance use (self-report and urine drug screen), treatment acceptability, mental health, and spirituality outcomes. We examined intervention engagement patterns using Facebook metrics and qualitatively explored common topics that emerged in participant posts and comments.
-    
-
-
-          Results:
-        
-      
-      Ten AI/AN women taking medication for OUD (MOUD) were accrued (age range 25-62 years). Participants had been in opioid recovery a mean of 15.2 months (SD = 16.1; range = 3-60). The study participation rate (accrued/eligible) was 91 %. Nine participants completed the post-intervention survey assessment and eight completed a UDS. Acceptability was high based on the mean treatment satisfaction score (M = 4.8, SD = 0.2 out of a possible 5.0), Facebook group engagement, and positive qualitative feedback. All participants retained at post-intervention continued their MOUD treatment, and none had returned to opioid use.
-    
-
-
-          Conclusions:
-        
-      
-      The beta-test indicated that the Facebook platform and study procedures generally worked as intended and that the intervention was largely acceptable to study participants. The results of this study phase provided valuable insights to inform refinements prior to conducting a pilot RCT to further assess the feasibility, acceptability, and potential efficacy of the intervention.
+We call for a reevaluation of the long-standing dogmatic nutritional principle that "all foods fit" for all cases of eating disorders (EDs) and its corollary, "there are no bad foods" (for anyone ever) during ED treatment. Based on accumulated scientific research, we challenge these ideologies as outdated, confusing, and potentially harmful to many patients. We review the evidence that indicates the folly of these assumptions and show there are a variety of exceptions to these rules, including (1) food allergies, sensitivities, and intolerances, (2) religious and spiritual preferences or doctrines, and (3) the ubiquitous emergence and widespread availability of ultra-processed foods leading to the potential development of addiction-like eating and a higher prevalence of various medical and psychiatric comorbidities, as well as higher mortality. This evidence supports a nutritional psychiatry approach that should be integrated into (rather than dissociated from) ED treatment research and practice.

@@ -1,3 +1,27 @@
-Designing a Spiritual Health Model for the Muslim Elderly Living in Nursing Homes
+The interplay of spiritual health, resilience, and happiness: an evaluation among a group of dental students at a state university in Turkey
 
-The spiritual health of elderly residents in nursing homes is an essential aspect of their overall health that has been overlooked. There are no specific practical models available in this area. Therefore, the present study aimed to design a model to promote the spiritual health of Muslim elderly residents in nursing homes. This qualitative study is part of a larger study conducted in Iran in 2021 to design a model for the spiritual health of elderly residents in nursing homes in Islamic countries. The first part of the study was conducted using a qualitative method and a grounded theory approach. In the second part, using the findings of the qualitative stage and the theoretical production approach of Walker and Avant (2011), which includes three stages of determining central concepts, reviewing texts, and organizing concepts and statements within a relevant whole, a model for the spiritual health of elderly residents in nursing homes was designed. The resulting model includes assumptions, concepts, objectives, and operational strategies. Some crucial strategies of this model include improving social and organizational infrastructure, spiritual needs assessment, improving the structure and facilities of nursing homes, providing spiritual support, empowering nurses, likewise caregivers, and monitoring and evaluating corrective spiritual care. This model can provide a framework for enhancing the spiritual health of elderly Muslim residents in nursing homes by emphasizing improving the social structure and elderly care centers, assessing spiritual needs, providing spiritual support, and evaluating implemented measures.
+Background:
+        
+      
+      Dental education is one of the disciplines where students are most significantly affected psychologically. The aim of this study was to evaluate the relationship between spiritual health, resilience and happiness levels of dental students at a state university in Turkey.
+    
+
+
+          Methods:
+        
+      
+      This cross- sectional study included 212 students from the 3rd, 4th and 5th grades of the faculty of dentistry. A questionnaire consisting of 4 sections was used in the study. The sections of the questionnaire include students' general and academic information, Turkish adaptations of the Spiritual Well-Being Scale, The Brief Resilience Scale, and the Oxford Happiness Questionnaire-Short Form. Data analysis was performed with IBM SPSS 25 package program. The Shapiro-Wilk test was used to assess the normal distribution of the data. The Mann-Whitney U test was preferred for comparisons between two categorical variables and one numerical variable. The Kruskal-Wallis H test was employed for comparisons involving two categorical variables and one numerical variable. The presence of a relationship between two numerical variables was examined using the Spearman test.
+    
+
+
+          Results:
+        
+      
+      In terms of resilience and happiness scores, males had higher scores than females. It was determined that third graders scored higher than fifth graders in harmony with nature scores, and third graders scored higher than fourth graders in deregulation scores. There was a positive correlation between happiness, spiritual well-being and resilience; a negative correlation between happiness and anomie. There was no significant relationship between age and happiness scores. As a result of multiple linear regression to determine the factors affecting happiness; increases in spiritual well-being and resilience will lead to an increase in happiness levels.
+    
+
+
+          Conclusion:
+        
+      
+      This study concluded that increased levels of spiritual well-being and resilience among a group of dental students would lead to increased levels of happiness. However, further research is needed to understand the relationship between mental health, resilience and happiness levels during dental education.

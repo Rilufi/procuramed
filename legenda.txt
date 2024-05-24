@@ -1,27 +1,34 @@
-The interplay of spiritual health, resilience, and happiness: an evaluation among a group of dental students at a state university in Turkey
+The influence of sociodemographic factors on parental health-seeking behavior for illnesses among the pediatric age group in Karachi: A cross-sectional study
 
 Background:
         
       
-      Dental education is one of the disciplines where students are most significantly affected psychologically. The aim of this study was to evaluate the relationship between spiritual health, resilience and happiness levels of dental students at a state university in Turkey.
+      Health-seeking behavior (HSB) is an individual's reaction to sickness, for which they seek medical attention, regardless of the form such care may take. Poor HSB is frequently associated with lower health outcomes and greater mortality and disease rates in a nation. Sociodemographic factors, including age, gender, family structure, occupation, ethnicity, and rates of literacy and poverty, can influence a person's HSB. This study would benefit Pakistani parents of the paediatric population to make more informed health choices for their children.
     
 
 
-          Methods:
+          Aim:
         
       
-      This cross- sectional study included 212 students from the 3rd, 4th and 5th grades of the faculty of dentistry. A questionnaire consisting of 4 sections was used in the study. The sections of the questionnaire include students' general and academic information, Turkish adaptations of the Spiritual Well-Being Scale, The Brief Resilience Scale, and the Oxford Happiness Questionnaire-Short Form. Data analysis was performed with IBM SPSS 25 package program. The Shapiro-Wilk test was used to assess the normal distribution of the data. The Mann-Whitney U test was preferred for comparisons between two categorical variables and one numerical variable. The Kruskal-Wallis H test was employed for comparisons involving two categorical variables and one numerical variable. The presence of a relationship between two numerical variables was examined using the Spearman test.
+      This study aims to determine the influence of sociodemographic factors on parental HSB for illnesses among the pediatric age group in Karachi.
+    
+
+
+          Materials and methods:
+        
+      
+      A cross-sectional study was conducted in which 214 parents were interviewed about their choices for health-seeking healthcare for their pediatric children of the pediatric age group (birth-18 years), who were attending the pediatric OPD and wards at Dr. Ruth Pfau Civil Hospital, Karachi in May 2023. Only parents or guardians with sick children were included. Their sociodemographic characteristics and health-seeking choices were asked. Informed consent was obtained, and all data were recorded. SPSS version 25 was used for analysis.
     
 
 
           Results:
         
       
-      In terms of resilience and happiness scores, males had higher scores than females. It was determined that third graders scored higher than fifth graders in harmony with nature scores, and third graders scored higher than fourth graders in deregulation scores. There was a positive correlation between happiness, spiritual well-being and resilience; a negative correlation between happiness and anomie. There was no significant relationship between age and happiness scores. As a result of multiple linear regression to determine the factors affecting happiness; increases in spiritual well-being and resilience will lead to an increase in happiness levels.
+      For the first choice, the majority of parents (82.7%) preferred to seek healthcare for their children from medical doctors, followed by spiritual healers (10.7%), traditional healers (5.6%), and homoeopathic doctors (0.9%). For the second choice, the highest percentage was for a doctor (76.2%), followed by a spiritual healer (18.7%), a homoeopathic doctor (3.3%), and a traditional healer (1.9%). A significant correlation was found between the first visit and the decision makers (p = 0.019), the father's education level of the father (p = 0.001), the mother's occupation of the mother (p = 0.019), and the mother's education level of the mother (p = 0.001).
     
 
 
           Conclusion:
         
       
-      This study concluded that increased levels of spiritual well-being and resilience among a group of dental students would lead to increased levels of happiness. However, further research is needed to understand the relationship between mental health, resilience and happiness levels during dental education.
+      Sociodemographic characteristics greatly influence parents' HSBs of parents for their children. Despite having low-paying jobs and being uneducated, most people choose to refer to a doctor for their child due to awareness.

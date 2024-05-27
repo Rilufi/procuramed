@@ -1,34 +1,34 @@
-The influence of sociodemographic factors on parental health-seeking behavior for illnesses among the pediatric age group in Karachi: A cross-sectional study
+Global perspectives on the traditional approaches used in the treatment of schizophrenia: A systematic review
 
 Background:
         
       
-      Health-seeking behavior (HSB) is an individual's reaction to sickness, for which they seek medical attention, regardless of the form such care may take. Poor HSB is frequently associated with lower health outcomes and greater mortality and disease rates in a nation. Sociodemographic factors, including age, gender, family structure, occupation, ethnicity, and rates of literacy and poverty, can influence a person's HSB. This study would benefit Pakistani parents of the paediatric population to make more informed health choices for their children.
+      Traditional healing considers a holistic approach when diagnosing and treating patients for mental ailments, and is the preferred approach globally.
     
 
 
-          Aim:
+          Objective:
         
       
-      This study aims to determine the influence of sociodemographic factors on parental HSB for illnesses among the pediatric age group in Karachi.
+      This review documented traditional healing approaches for treatment of schizophrenia used in different regions globally.
     
 
 
-          Materials and methods:
+          Methods:
         
       
-      A cross-sectional study was conducted in which 214 parents were interviewed about their choices for health-seeking healthcare for their pediatric children of the pediatric age group (birth-18 years), who were attending the pediatric OPD and wards at Dr. Ruth Pfau Civil Hospital, Karachi in May 2023. Only parents or guardians with sick children were included. Their sociodemographic characteristics and health-seeking choices were asked. Informed consent was obtained, and all data were recorded. SPSS version 25 was used for analysis.
+      PICO framework was used to facilitate literature search from Google Scholar, PubMed, Medline, Cochrane, Scopus, APA PsycINFO, and Web search. Studies documenting methods of treatment from the perspective of traditional healers, patients and/or caregivers were included and also studies which investigated herbal plants used in traditional healing in vitro and in vivo were included. Review articles, magazine/newspaper articles, editorials, letters, comments/opinion articles, and articles with inaccessible full text were excluded. The risk of bias was assessed using MMAT and SYRCLE tools. University Capacity Development Programme funded this review.
     
 
 
           Results:
         
       
-      For the first choice, the majority of parents (82.7%) preferred to seek healthcare for their children from medical doctors, followed by spiritual healers (10.7%), traditional healers (5.6%), and homoeopathic doctors (0.9%). For the second choice, the highest percentage was for a doctor (76.2%), followed by a spiritual healer (18.7%), a homoeopathic doctor (3.3%), and a traditional healer (1.9%). A significant correlation was found between the first visit and the decision makers (p = 0.019), the father's education level of the father (p = 0.001), the mother's occupation of the mother (p = 0.019), and the mother's education level of the mother (p = 0.001).
+      74 articles were included, these documented traditional healing practices used in Africa, Asia, America, Europe, and Oceania. Common approach globally was herbal medicine. Other reported methods included faith-based healing, consultation with the ancestors, performing rituals, acupuncture, and music and yoga therapies. Inhumane approaches included starving, beating, cutting and confining patients. In some cases, traditional healing was used as adjunctive treatment. The overall risk of bias for studies in this review was low.
     
 
 
           Conclusion:
         
       
-      Sociodemographic characteristics greatly influence parents' HSBs of parents for their children. Despite having low-paying jobs and being uneducated, most people choose to refer to a doctor for their child due to awareness.
+      Traditional healing contributes in bridging the treatment gap for schizophrenia in developing countries. However, there is a lack of standardisation of the approaches employed in the different regions, and the safety and effectiveness of some of these approaches remain questionable.

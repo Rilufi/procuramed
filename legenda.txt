@@ -1,34 +1,27 @@
-Global perspectives on the traditional approaches used in the treatment of schizophrenia: A systematic review
+How well do participants in clinical trials represent the U.S. population with chronic neck or back pain?
 
 Background:
         
       
-      Traditional healing considers a holistic approach when diagnosing and treating patients for mental ailments, and is the preferred approach globally.
-    
-
-
-          Objective:
-        
-      
-      This review documented traditional healing approaches for treatment of schizophrenia used in different regions globally.
+      Randomized clinical trials (RCTs) are the gold standard for assessing treatment effectiveness; however, they have been criticized for generalizability issues such as how well trial participants represent those who receive the treatments in clinical practice. We assessed the representativeness of participants from eight RCTs for chronic spine pain in the U.S., which were used for an individual participant data meta-analysis on the cost-effectiveness of spinal manipulation for spine pain. In these clinical trials, spinal manipulation was performed by chiropractors.
     
 
 
           Methods:
         
       
-      PICO framework was used to facilitate literature search from Google Scholar, PubMed, Medline, Cochrane, Scopus, APA PsycINFO, and Web search. Studies documenting methods of treatment from the perspective of traditional healers, patients and/or caregivers were included and also studies which investigated herbal plants used in traditional healing in vitro and in vivo were included. Review articles, magazine/newspaper articles, editorials, letters, comments/opinion articles, and articles with inaccessible full text were excluded. The risk of bias was assessed using MMAT and SYRCLE tools. University Capacity Development Programme funded this review.
+      We conducted a retrospective secondary analysis of RCT data to compare trial participants' socio-demographic characteristics, clinical features, and health outcomes to a representative sample of (a) U.S. adults with chronic spine pain and (b) U.S. adults with chronic spine pain receiving chiropractic care, using secondary data from the National Health Interview Survey (NHIS) and Medical Expenditure Panel Survey (MEPS). We assessed differences between trial and U.S. spine populations using independent t-tests for means and z-tests for proportions, accounting for the complex multi-stage survey design of the NHIS and MEPS.
     
 
 
           Results:
         
       
-      74 articles were included, these documented traditional healing practices used in Africa, Asia, America, Europe, and Oceania. Common approach globally was herbal medicine. Other reported methods included faith-based healing, consultation with the ancestors, performing rituals, acupuncture, and music and yoga therapies. Inhumane approaches included starving, beating, cutting and confining patients. In some cases, traditional healing was used as adjunctive treatment. The overall risk of bias for studies in this review was low.
+      We found the clinical trials had an under-representation of individuals from health disparity populations with lower percentages of racial and ethnic minority groups (Black/African American 7% lower, Hispanic 8% lower), less educated (No high school degree 19% lower, high school degree 11% lower), and unemployed adults (25% lower) with worse health outcomes (physical health scores 2.5 lower and mental health scores 5.3 lower using the SF-12/36) relative to the U.S. population with spine pain. While the odds of chiropractic use in the U.S. are lower for individuals from health disparity populations, the trials also under-represented these populations relative to U.S. adults with chronic spine pain who visit a chiropractor.
     
 
 
-          Conclusion:
+          Conclusions:
         
       
-      Traditional healing contributes in bridging the treatment gap for schizophrenia in developing countries. However, there is a lack of standardisation of the approaches employed in the different regions, and the safety and effectiveness of some of these approaches remain questionable.
+      Health disparity populations are not well represented in spine pain clinical trials. Embracing key community-based approaches, which have shown promise for increasing participation of underserved communities, is needed.

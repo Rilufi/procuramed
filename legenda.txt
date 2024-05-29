@@ -1,27 +1,3 @@
-How well do participants in clinical trials represent the U.S. population with chronic neck or back pain?
+Psychometric Evaluation of the Persian Version of Spiritual Self-Care Practice Scale in Iranian Patients with Cancer
 
-Background:
-        
-      
-      Randomized clinical trials (RCTs) are the gold standard for assessing treatment effectiveness; however, they have been criticized for generalizability issues such as how well trial participants represent those who receive the treatments in clinical practice. We assessed the representativeness of participants from eight RCTs for chronic spine pain in the U.S., which were used for an individual participant data meta-analysis on the cost-effectiveness of spinal manipulation for spine pain. In these clinical trials, spinal manipulation was performed by chiropractors.
-    
-
-
-          Methods:
-        
-      
-      We conducted a retrospective secondary analysis of RCT data to compare trial participants' socio-demographic characteristics, clinical features, and health outcomes to a representative sample of (a) U.S. adults with chronic spine pain and (b) U.S. adults with chronic spine pain receiving chiropractic care, using secondary data from the National Health Interview Survey (NHIS) and Medical Expenditure Panel Survey (MEPS). We assessed differences between trial and U.S. spine populations using independent t-tests for means and z-tests for proportions, accounting for the complex multi-stage survey design of the NHIS and MEPS.
-    
-
-
-          Results:
-        
-      
-      We found the clinical trials had an under-representation of individuals from health disparity populations with lower percentages of racial and ethnic minority groups (Black/African American 7% lower, Hispanic 8% lower), less educated (No high school degree 19% lower, high school degree 11% lower), and unemployed adults (25% lower) with worse health outcomes (physical health scores 2.5 lower and mental health scores 5.3 lower using the SF-12/36) relative to the U.S. population with spine pain. While the odds of chiropractic use in the U.S. are lower for individuals from health disparity populations, the trials also under-represented these populations relative to U.S. adults with chronic spine pain who visit a chiropractor.
-    
-
-
-          Conclusions:
-        
-      
-      Health disparity populations are not well represented in spine pain clinical trials. Embracing key community-based approaches, which have shown promise for increasing participation of underserved communities, is needed.
+Spiritual self-care is defined as a set of patient-centered or family-centered spiritual activities aimed at promoting health and well-being. In chronic diseases such as cancer, the responsibility for care typically falls on the patient or their family, necessitating an accurate assessment of the patient's self-care practices to achieve this goal. The objective of this study was to translate, culturally adapt, and examine the psychometrics of the Persian version of the spiritual self-care practice scale (SSCPS) in cancer patients. This scale is designed to be administered directly to patients to assess their spiritual self-care practices. This cross-sectional study was conducted at the oncology ward in Afzalipoor Hospital, Javad Al-Aemeh Clinic, and Physicians Clinics affiliated with Kerman University of Medical Sciences in Kerman, southeast Iran. The study included qualitative and quantitative assessments of face validity, content validity, item analysis, exploratory and confirmatory factor analysis (construct validity), and reliability. Data collection took place between March 20, 2023, and December 30, 2023. The scale's content validity index was calculated to be 0.948, with mostly minor revision comments for most items. The item-content validity indices ranged from 0.7 to 1. Exploratory factor analysis revealed a five-factor solution with 23 items, explaining 61.251% of the total variance. The identified factors were labeled as 'personal and interpersonal spiritual practices,' 'shaping and strengthening relationship practices,' 'religious practices,' 'physical spiritual practices,' and 'reshaping relationship practices.' Most of the confirmatory factor analysis indices were satisfactory (χ2/df = 1.665, CFI = 0.934, IFI = 0.935, RMSEA = 0.058). The Cronbach's α coefficient for the total scale was 0.89, while it ranged from 0.596 to 0.882 for the subscales. The Persian version of SSCPS with 23 items demonstrates reliability and effectiveness in assessing the spiritual practice performance of Iranian cancer patients. Compared to the original version, the Persian adaptation of SSCPS is concise, making it a suitable instrument for future research and practice on spiritual self-care among Iranian cancer patients.

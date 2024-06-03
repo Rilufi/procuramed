@@ -1,27 +1,3 @@
-Impact of a comprehensive rehabilitation palliative care program on the quality of life of patients with terminal cancer and their informal caregivers: a quasi-experimental study
+The Opioid Epidemic and Faith-Based Responses in Southern Appalachia, USA: An Exploration of Factors for Successful Cross-Sector Collaboration
 
-Background:
-        
-      
-      Palliative care schemes, which include pain management, symptom control, psychosocial support and rehabilitation, aim to boost patients' quality of life, ease the burden and anxiety of informal caregivers, and ultimately provide a comprehensive approach to enhance well-being during this challenging and sensitive period. This study aims to evaluate the impact of a comprehensive rehabilitation palliative care program on the quality of life of patients with terminal cancer and their informal caregivers.
-    
-
-
-          Methods:
-        
-      
-      This quasi-experimental study, conducted from August 2023 to January 2024 at outpatient clinics affiliated with the Oncology Center at Mansoura University, Egypt, focused on cancer patients and their caregivers in the palliative care department. Employing pre- and post-test phases, data were gathered using a questionnaire, EORTC QLQ C30, Hospital Anxiety and Depression Scale, Short Form Health Survey, Caregiver Burden Inventory, and Beck Anxiety Inventory. The investigation evaluated a 16-week rehabilitation program comprising exercise, psychoeducation, individual counselling, and spiritual support. Exercises, led by a physiotherapist, targeted fatigue and stress through tailored aerobic and resistance training. Psychoeducation sessions aimed to bolster coping abilities, covering fatigue management and nutrition. Trained counsellors addressed spiritual and existential concerns. Personal advisory sessions were available for individual support. Caregivers received education on rehabilitation and palliative care protocols, ensuring comprehensive patient care.
-    
-
-
-          Results:
-        
-      
-      The mean age for cancer patients was 65.79 ± 13.85. In contrast, the mean age for primary carers was 42.05 ± 11.15. The QOL for cancer patients during the pre-test phase was 77.8 ± 7.16 and rose to 87.34 ± 14.56 during the post-test phase. Additionally, the total anxiety level of patients before the rehabilitation palliative care program was conducted was 15.45 ± 3.05 compared to 6.12 ± 3.21 after the post test phase. Furthermore, the total depression levels of the patients during the pre-test phase were 20.89 ± 9.21. However, after implementing the rehabilitation palliative care program, it decreased to 15.5 ± 6.86. In regards to the total quality of life of informal caregivers, it was measured at 67.28 ± 32.09 before conducting the program. Nevertheless, it increased to 25.95 ± 40.29 after conducting it. Additionally, the total Caregiver Burden Inventory before implementing the program was 37.45 ± 25.7, and it decreased to 29.36 ± 16.4 after conducting it. Additionally, the total score on the Beck Anxiety Inventory decreased from 45.7 ± 4.3 during the initial testing phase to 17.35 ± 23.67.
-    
-
-
-          Conclusion:
-        
-      
-      The program for rehabilitation palliative care successfully achieved its goals by enhancing the overall quality of life for cancer patients and their caregivers. Additionally, it reduced the anxiety and depression levels among the patients, as well as the anxiety and caregiver burden among the caregivers. Continue research into the effectiveness of rehabilitation palliative care programs to identify best practices, improve existing programs, and expand access to these services.
+This study aimed to identify factors for successful cross-sector collaboration with faith-based responses to the opioid epidemic in southern Appalachia. In-depth interviews were conducted with representatives from organizations responding to the opioid epidemic (N = 25) and persons who have experienced opioid dependency (N = 11). Stakeholders perceived that collaboration is hindered by stigma, poor communication, and conflicting medical and spiritual approaches to opioid dependency. Collaborations are facilitated by cultivating compassion and trust, sharing information along relational lines, and discerning shared commitments while respecting different approaches. The study concludes with theoretical and practical implications for both religious leaders and potential cross-sector collaborators.

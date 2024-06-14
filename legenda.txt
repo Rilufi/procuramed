@@ -1,20 +1,27 @@
-Health-saving technologies as a need and lifestyle of Ukrainians
+Perception and reasons for the choice of informal provider among women receiving antenatal care services from traditional birth attendants in rural communities of Lagos state, Nigeria
 
-Objective:
+Background:
         
       
-      Aim: The article analyzes the health-saving technologies of Ukrainians in Eastern Galicia (the end of the XIX century - 1939).
+      Unskilled delivery, particularly the use of traditional birth attendants, is a major threat to reducing maternal mortality in Africa. Despite the associated risks, there is insufficient evidence on the major reasons why pregnant women in Nigeria continue to use traditional birth attendant (TBA) services, especially in rural areas. This study, therefore, assessed the perception, reasons for use, and utilization of only TBA services in current pregnancy among rural-dwelling pregnant women in Lagos, Nigeria.
     
 
 
-          Patients and methods:
+          Methods:
         
       
-      Materials and Methods: In the investigation a number of scientific methods are used: chronological, historical, specific-search, content analysis, providing selection, analysis of the source base, allowing to identify general trends, directions of development, achievements and gaps in the movement for the health of children and adults in Galicia; sources of Ukrainian and Polish authors of different generations in the field of health protection and preservation, physical education and sports, education and upbringing were used, their views and research results were presented.
+      A descriptive cross-sectional study was conducted among 347 pregnant women recruited from traditional birth attendant facilities at Ikorodu Local Government Area, Lagos. Data were collected with an interviewer-administered questionnaire and analyzed using SPSS version 25. Bivariate and multivariate analyses were conducted with a significance level set at p<0.05. The outcome measures included perception, utilization of only TBA services in current pregnancy, and reasons for use. Positive perception refers to positive thought, belief, or opinion held by the participants towards the TBA.
+    
+
+
+          Results:
+        
+      
+      All the respondents had a positive perception of TBAs, majority (70.3%) utilized TBA only while 29.7% combined TBA and healthcare facilities services in the current pregnancy. Recommendations from previous users (81.6%), welcoming and hospitable staff (77.2%), perceived spiritual protection (75.2%), and past use (68.6%), were some of the reasons cited by the respondents for utilizing only TBA services. Predictors of utilizing only TBA services were respondents' level of education, those with secondary (aOR = 0.261; 95% CI; 0.108-0.629) and tertiary (aOR = 0.352; 95% CI; 0.162-0.769) had lower utilization while the lack of health insurance coverage (aOR = 3.017; 95% CI; 1.476-6.166) were associated with higher utilization of TBAs.
     
 
 
           Conclusion:
         
       
-      Conclusions: A component of the health-saving philosophy of Ukrainians (children, youth and adults) of Eastern Galicia in the late XIX - 30s of the XX century was the idea of physical education. Through traveling and camping, playing sports, improving children, youth and adults in places of active recreation (≪dwellings,≫ ≪half-dwellings,≫ ≪cuttings,≫ etc.), the philosophy of health conservation took a leading position in the interwar period of the XX century. The physical education movement had particular successes when a wide circle of Ukrainian youth joined it. There was an original Plast method of physical education of a Ukrainian - physically, spiritually, morally, mentally healthy person, for whom health preservation is a way and philosophy of life, a vital need. All this actualizes the problem of health-oriented public initiatives, which should be creatively used in the current challenges in Ukraine.
+      Respondents in this study had a positive perception of TBA services. Continuous training and an effective monitoring system of TBAs by the government and other healthcare stakeholders to improve women's birthing experiences is recommended.

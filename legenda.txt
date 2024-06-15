@@ -1,27 +1,3 @@
-Perception and reasons for the choice of informal provider among women receiving antenatal care services from traditional birth attendants in rural communities of Lagos state, Nigeria
+Holistic Physical Assessment: A New Framework for Nursing Practice Honoring the Whole Person
 
-Background:
-        
-      
-      Unskilled delivery, particularly the use of traditional birth attendants, is a major threat to reducing maternal mortality in Africa. Despite the associated risks, there is insufficient evidence on the major reasons why pregnant women in Nigeria continue to use traditional birth attendant (TBA) services, especially in rural areas. This study, therefore, assessed the perception, reasons for use, and utilization of only TBA services in current pregnancy among rural-dwelling pregnant women in Lagos, Nigeria.
-    
-
-
-          Methods:
-        
-      
-      A descriptive cross-sectional study was conducted among 347 pregnant women recruited from traditional birth attendant facilities at Ikorodu Local Government Area, Lagos. Data were collected with an interviewer-administered questionnaire and analyzed using SPSS version 25. Bivariate and multivariate analyses were conducted with a significance level set at p<0.05. The outcome measures included perception, utilization of only TBA services in current pregnancy, and reasons for use. Positive perception refers to positive thought, belief, or opinion held by the participants towards the TBA.
-    
-
-
-          Results:
-        
-      
-      All the respondents had a positive perception of TBAs, majority (70.3%) utilized TBA only while 29.7% combined TBA and healthcare facilities services in the current pregnancy. Recommendations from previous users (81.6%), welcoming and hospitable staff (77.2%), perceived spiritual protection (75.2%), and past use (68.6%), were some of the reasons cited by the respondents for utilizing only TBA services. Predictors of utilizing only TBA services were respondents' level of education, those with secondary (aOR = 0.261; 95% CI; 0.108-0.629) and tertiary (aOR = 0.352; 95% CI; 0.162-0.769) had lower utilization while the lack of health insurance coverage (aOR = 3.017; 95% CI; 1.476-6.166) were associated with higher utilization of TBAs.
-    
-
-
-          Conclusion:
-        
-      
-      Respondents in this study had a positive perception of TBA services. Continuous training and an effective monitoring system of TBAs by the government and other healthcare stakeholders to improve women's birthing experiences is recommended.
+Scholars have argued that standard physical assessment is based on a medical framework instead of nursing theories and philosophy. We argue that standard physical assessment is task-oriented, lacking emphasis on the whole-person and neglecting a least-to-most invasive assessment process. While holistic health assessment is person-centered and multidimensional; addressing aspects such as physical, emotional, and spiritual well-being, there is not a comprehensive explanation on how to holistically perform the physical examination portion of a holistic health assessment. Proposed is a new framework for holistic physical assessment in the hospital environment, honoring the whole-person, their background, and lived experiences. The framework builds on the holistic nursing philosophy, integrative nursing principles, and trauma-informed approach, and systematically arranges physical assessment from least invasive to most. The seven sequential assessment steps incorporate self-care and awareness into the preparation and closure of the assessment-(1) the self, (2) the space, (3) least invasive, (4) moderate invasive, (5) most invasive, (6) the space, and (7) the self. This framework can have significant implications for nursing practice and education settings, providing valuable guidance for a holistic physical assessment that emphasizes whole-person care.

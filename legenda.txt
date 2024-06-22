@@ -1,3 +1,27 @@
-Spiritual assessment models for palliative care chaplains: a narrative review
+Exploring moral competence regression: a narrative approach in medical ethics education for medical students
 
-Palliative care chaplains conduct spiritual assessments for those within their care. This narrative review examined the literature concerning existing spiritual assessment models developed or designated for palliative care chaplain use. The literature review was performed using four databases, including a hand search of references due to the variability of keywords used within the spiritual care literature. Five spiritual assessment models were identified. The analysis of the models focused on three areas: (1) Foundational basis, (2) Spiritual needs, and (3) Structural frameworks. Published spiritual assessment models for palliative care chaplain use are variable in how each one was formed, how each tool describes and structures spiritual care needs, and how the models are implemented within their respective contexts. The PC-7 advances the field, especially through its mixed methods approach. Future validation and reliability research is needed as well as investigations concerning which models are taught by chaplain educators and used by palliative care chaplains.
+Background:
+        
+      
+      Studies from different countries report a stagnation or regression of moral competence in medical students between the first and the last year of their studies, and the value of various educational interventions remains uncertain.
+    
+
+
+          Methods:
+        
+      
+      We used Moral Competence Test (MCT) to measure C-scores of moral competence to determine the change in the MCT C-scores between the first- and the fifth-year medical students from two medical schools in the Czech Republic in the academic year 2022/2023 and to analyze factors associated with the C-scores (observational study). In addition, for the first-year students, we compared the results of the MCT before and after an intervention in medical ethics curriculum (interventional study). We used a cross-sectional and descriptive design for the observational study. Students completed the MCT, consisting of two moral dilemmas (Worker´s Dilemma and Doctor´s Dilemma), the results measured by the C-score, which represents moral competence.
+    
+
+
+          Results:
+        
+      
+      In total, 685 students participated in the observational study. Objective 1: based on the analysis of the C-score, we observed a decrease in moral competence between the first and the fifth-year medical students (p < .001). Objective 2: we did not observe a statistically significant effect of gender (p = .278), or self-rated religiosity (p = .163). Objective 3: in the interventional study, 440 students participated in the pretest and 422 students participated in the posttest. The test of statistical significance found no improvement in students' moral competence after the intervention (p = .253).
+    
+
+
+          Conclusion:
+        
+      
+      Medical students show a regression in moral competence during medical education; it was lower in medical students in their fifth year, compared to the first-year medical students without the effect of gender, or self-rated religiosity. Although educational intervention consisting of multiple tools of medical ethics teaching (PBL, CBL, KMDD and StorED) did not lead to increase in moral competence, the longitudinal effect of such intervention remains to be seen.

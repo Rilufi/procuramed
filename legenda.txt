@@ -1,27 +1,3 @@
-Exploring moral competence regression: a narrative approach in medical ethics education for medical students
+ACTing Spiritually: Integrating Spiritual Care and Mental Health Care within a US Department of Veterans Affairs Inpatient Psychiatric Unit
 
-Background:
-        
-      
-      Studies from different countries report a stagnation or regression of moral competence in medical students between the first and the last year of their studies, and the value of various educational interventions remains uncertain.
-    
-
-
-          Methods:
-        
-      
-      We used Moral Competence Test (MCT) to measure C-scores of moral competence to determine the change in the MCT C-scores between the first- and the fifth-year medical students from two medical schools in the Czech Republic in the academic year 2022/2023 and to analyze factors associated with the C-scores (observational study). In addition, for the first-year students, we compared the results of the MCT before and after an intervention in medical ethics curriculum (interventional study). We used a cross-sectional and descriptive design for the observational study. Students completed the MCT, consisting of two moral dilemmas (Worker´s Dilemma and Doctor´s Dilemma), the results measured by the C-score, which represents moral competence.
-    
-
-
-          Results:
-        
-      
-      In total, 685 students participated in the observational study. Objective 1: based on the analysis of the C-score, we observed a decrease in moral competence between the first and the fifth-year medical students (p < .001). Objective 2: we did not observe a statistically significant effect of gender (p = .278), or self-rated religiosity (p = .163). Objective 3: in the interventional study, 440 students participated in the pretest and 422 students participated in the posttest. The test of statistical significance found no improvement in students' moral competence after the intervention (p = .253).
-    
-
-
-          Conclusion:
-        
-      
-      Medical students show a regression in moral competence during medical education; it was lower in medical students in their fifth year, compared to the first-year medical students without the effect of gender, or self-rated religiosity. Although educational intervention consisting of multiple tools of medical ethics teaching (PBL, CBL, KMDD and StorED) did not lead to increase in moral competence, the longitudinal effect of such intervention remains to be seen.
+As a part of the VA's interprofessional fellowship in psychosocial rehabilitation, the authors developed an 8-week spirituality group manual, ACTing Spiritually, which incorporates principles of acceptance and commitment therapy (ACT) into a spirituality group protocol. The group, administered weekly as possible for 28 weeks on an inpatient psychiatric unit at a veterans affairs (VA) medical center in West Haven, CT, aimed to incorporate veterans' spirituality into their mental health treatment through concepts of acceptance, values, mindfulness, and committed action. ACTing Spiritually ran in tandem with a basic ACT group and the two groups had comparable average group sizes, suggesting interest in ACTing Spiritually similarly compares to interest in a basic ACT group in this context. In addition, development of the group yielded several qualitative findings, including a discussion of the similarities and differences between ACT and spiritual care, clinical gains for chaplains conducting the group, and clinical tensions that arose through the process of integration. The study provided preliminary evidence of the potential feasibility and acceptability of ACTing Spiritually. Next steps should include a formal evaluation of its potential efficacy.

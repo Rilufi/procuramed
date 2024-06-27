@@ -1,3 +1,27 @@
-Spiritual and religious beliefs and behaviour: data collected from 27/28-year-old offspring in the Avon Longitudinal Study of Parents and Children, 2019-2020
+Development of a prediction model for suicidal ideation in patients with advanced cancer: A multicenter, real-world, pan-cancer study in China
 
-Religious/spiritual belief and practices have sometimes been demonstrated to have positive associations with outcomes such as coping with serious illness, anxiety, depression, negative life events and general well-being, and therefore warrants consideration in many facets of health research. For example, increasing secularisation evidenced, particularly in the West, may reflect increasing rates of depression and anxiety. Very few studies have charted the ways in which religious/spiritual beliefs and practices of parents and their offspring vary longitudinally or between generations. Avon Longitudinal Study of Parents and Children (ALSPAC) is one such study that can relate belief and practices with aspects of physical and mental health and/or distinguish the different facets of the environment that may influence the development, or inter-generational loss, of belief and behaviours. This paper describes the 2019-2020 data collection in the ALSPAC on the religious/spiritual beliefs and behaviours (RSBB) of the study offspring (born 1991/1992) at ages 27-28 years. Previously collected and new data on the offspring are described here and comparisons are made with identical data completed by their parents (mothers and their partners) in early 2020. The most striking observations are that in almost all aspects of RSBB the offspring of both sexes are more secular, especially when compared with their mothers. For example, 56.2% of offspring state that they do not believe in God, or a divine power compared with 26.6% of mothers and 45.3% of mothers' partners. When asked about their type of religion, 65.4% of participants stated 'none', compared with 27.2% of mothers and 40.2% of partners. This confirms previous research reporting increasing secularisation from one generation to the next. As with the mothers and their partners, female offspring were more likely than males to believe in a divine power and to practice their beliefs.
+Background:
+        
+      
+      Patients diagnosed with advanced stage cancer face an elevated risk of suicide. We aimed to develop a suicidal ideation (SI) risk prediction model in patients with advanced cancer for early warning of their SI and facilitate suicide prevention in this population.
+    
+
+
+          Patients and methods:
+        
+      
+      We consecutively enrolled patients with multiple types of advanced cancers from 10 cancer institutes in China from August 2019 to December 2020. Demographic characteristics, clinicopathological data, and clinical treatment history were extracted from medical records. Symptom burden, psychological status, and SI were assessed using the MD Anderson Symptom Inventory (MDASI), Hospital Anxiety and Depression Scale (HADS), and Patient Health Questionnaire-9 (PHQ-9), respectively. A multivariable logistic regression model was employed to establish the model structure.
+    
+
+
+          Results:
+        
+      
+      In total, 2814 participants were included in the final analysis. Nine predictors including age, sex, number of household members, history of previous chemotherapy, history of previous surgery, MDASI score, HADS-A score, HADS-D score, and life satisfaction were retained in the final SI prediction model. The model achieved an area under the curve (AUC) of 0.85 (95% confidential interval: 0.82-0.87), with AUCs ranging from 0.75 to 0.95 across 10 hospitals and higher than 0.83 for all cancer types.
+    
+
+
+          Conclusion:
+        
+      
+      This study built an easy-to-use, good-performance predictive model for SI. Implementation of this model could facilitate the incorporation of psychosocial support for suicide prevention into the standard care of patients with advanced cancer.

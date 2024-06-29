@@ -1,27 +1,3 @@
-Development of a prediction model for suicidal ideation in patients with advanced cancer: A multicenter, real-world, pan-cancer study in China
+Progress in medicine and artificial intelligence
 
-Background:
-        
-      
-      Patients diagnosed with advanced stage cancer face an elevated risk of suicide. We aimed to develop a suicidal ideation (SI) risk prediction model in patients with advanced cancer for early warning of their SI and facilitate suicide prevention in this population.
-    
-
-
-          Patients and methods:
-        
-      
-      We consecutively enrolled patients with multiple types of advanced cancers from 10 cancer institutes in China from August 2019 to December 2020. Demographic characteristics, clinicopathological data, and clinical treatment history were extracted from medical records. Symptom burden, psychological status, and SI were assessed using the MD Anderson Symptom Inventory (MDASI), Hospital Anxiety and Depression Scale (HADS), and Patient Health Questionnaire-9 (PHQ-9), respectively. A multivariable logistic regression model was employed to establish the model structure.
-    
-
-
-          Results:
-        
-      
-      In total, 2814 participants were included in the final analysis. Nine predictors including age, sex, number of household members, history of previous chemotherapy, history of previous surgery, MDASI score, HADS-A score, HADS-D score, and life satisfaction were retained in the final SI prediction model. The model achieved an area under the curve (AUC) of 0.85 (95% confidential interval: 0.82-0.87), with AUCs ranging from 0.75 to 0.95 across 10 hospitals and higher than 0.83 for all cancer types.
-    
-
-
-          Conclusion:
-        
-      
-      This study built an easy-to-use, good-performance predictive model for SI. Implementation of this model could facilitate the incorporation of psychosocial support for suicide prevention into the standard care of patients with advanced cancer.
+This essay challenges the idea of progress as technological development in relation to medicine by focusing on people rather than things. It analyzes how the prevalence of such an idea of progress leads contemporary societies to a technofetishism that degrades community life and medical practice, contributing to the medicalization of social life. It is argued that the realization of technological potentialities depends on their forms of use, that the main motive of technological development is unlimited profit, and the priority developments are those that enhance social control which maintains the status quo. Intelligence as an intelligence quotient is criticized by proposing it as an attribute of the human being as a whole, manifested in the ways of thinking and acting of human beings in their circumstances, where affectivity and critical thinking are essential for their development; it is emphasized that its antecedent is the harmonic concert of planetary life, which contrasts with the prevailing human disharmony. It is proposed that artificial intelligence is the latest creation of technofetishism, which deposits vital attributes in technology, and that its use will accentuate the degradation of human and planetary life. Another idea of medical progress is proposed, based on forms of organization that is conducive to the development of inquisitive, critical, and collaborative skills that promote permanent improvement, whose distant horizon is dignified progress: the spiritual, intellectual, moral, and convivial sublimation of collectivities in harmony with the planetary ecosystem.

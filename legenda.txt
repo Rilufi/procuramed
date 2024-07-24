@@ -1,3 +1,27 @@
-"We only trust each other": A qualitative study exploring the overdose risk environment among persons who inject drugs living with HIV in Nairobi, Kenya
+Knowledge, attitudes, and practices of caregivers with children diagnosed with epilepsy attending a pediatric outpatient clinic: a descriptive, cross-sectional, questionnaire-based study in Addis Ababa, Ethiopia
 
-In Kenya, overdose remains a major public health concern with approximately 40% of persons who inject drugs (PWID) reporting personal overdoses. PWID living with HIV (PWID-LH) are particularly vulnerable to experiencing fatal and non-fatal overdoses because of the surrounding physical, social, economic, and political environments, which are not fully understood in Kenya. Through qualitative inquiry, this study characterizes Kenya's overdose risk environment. Participants were purposively recruited from a larger cohort study from September to December 2018 using the following inclusion criteria: HIV-positive, age ≥18 years, injected drugs in the last year, and completed cohort study visits. Semi-structured interviews explored experiences of personal and observed overdoses, including injection settings, sequence of events (e.g., pre-, during, and post-overdose), safety strategies, and treatment. Interviews were transcribed, translated (Swahili to English), reviewed, and analyzed thematically, applying a risk environment framework. Nearly all participants described personal and/or observed overdose experiences (96%) and heroin was the most frequently reported substance (79%). Overdose precursors included increased consumption, polysubstance use, recent incarceration, and rushed injections. There were also indications of female-specific precursors, including violence and accessing prefilled syringes within occupational settings. Overdose safety strategies included avoiding injecting alone, injecting drugs incrementally, assessing drug quality, and avoiding polysubstance use. Basic first-aid techniques and naloxone use were common treatment strategies; however, naloxone awareness was low (25%). Barriers to treatment included social network abandonment, police discrimination, medical stigma, fatalism/religiosity, medical and transportation costs, and limited access to treatment services. In Kenya, the overdose risk environment highlights the need for comprehensive overdose strategies that address the physical, social, economic, and political environments. Morbidity and mortality from overdose among PWID-LH could be reduced through overdose prevention initiatives that support harm reduction education, naloxone awareness, and access, destigmatization of PWID, and reforming punitive policies that criminalize PWID-LH.
+Background:
+        
+      
+      Caregivers' knowledge and attitudes influence help-seeking behavior and treatment decisions of patients with epilepsy, which in turn significantly impacts epilepsy care. In Ethiopia, epilepsy is often misunderstood, associated with misconceptions and accompanied by persistent negative attitudes. The objective of this study is to assess the knowledge, attitude, and practice of caregivers of children with epilepsy.
+    
+
+
+          Methods:
+        
+      
+      We conducted a hospital-based survey at the Yekatit 12 Hospital Pediatric Neurology Clinic, Addis Ababa, Ethiopia, between May and July 2022. We invited caregivers of children with epilepsy taking one or more daily anti-seizure medications to participate. Caregivers were invited to complete a structured questionnaire with guidance from a trained nurse to estimate knowledge and attitudes towards epilepsy and its treatment. Knowledge and attitudes were categorized as "good" and "favorable" (correct answers to ≥ 50% of questions) or "bad" and "unfavorable" (< 50% correct answers), respectively. Attitudes towards standard care versus non-standard (e.g., spiritual) care were also estimated.
+    
+
+
+          Results:
+        
+      
+      A total of 120 caregivers completed the questionnaire. Many caregivers were familiar with the term 'epilepsy', with more than half (51.7%) having heard or read about it previously. The reported causes of epilepsy varied, with birth injury being the most common cause (44 out of 120 caregivers). Notably, there was association between the caregiver's gender and their knowledge score, with a p-value = 0.05. Caregivers exposed to information about epilepsy through hearing or reading demonstrated significantly higher levels of knowledge, with a p-value < 0.001. Additionally, knowing someone with epilepsy other than the index child was significantly associated with higher knowledge scores (p-value < 0.001). The study also revealed negative attitudes toward epilepsy: for example, 56.7% of surveyed caregivers believed it is unlikely that a child with epilepsy has normal cognitive abilities and 39.1% believed they should never be allowed to attend regular school. Additionally, a high proportion of caregivers (70%) sought alternative treatments (e.g., spiritual help) alongside standard medical care.
+    
+
+
+          Conclusions:
+        
+      
+      A significant knowledge gap was identified among caregivers, revealing prevalent misconceptions and negative attitudes. Improving epilepsy awareness, attitudes, and practices among caregivers will potentially contribute to overall improved quality of life for children with epilepsy.

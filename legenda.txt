@@ -1,27 +1,27 @@
-Enriching Spiritual Care in Medical Residents Through Cultural Humility and Courage
+Investigation of environmental ethics, spiritual health, and its relationship with environmental protection behaviors in nursing students
 
-Introduction:
+Objective:
         
       
-      While many patients desire spiritual care, it is infrequently provided by physicians. When a model of cultural humility and courage is employed, resident physicians can be introduced to the spiritual care of patients.
+      To investigate the relationship between environmental ethics, spiritual health, and environmental behavior among nursing students.
     
 
 
           Methods:
         
       
-      We developed this 90-minute, onetime session to speak directly to resident physicians about the relationships between medicine and spirituality and the nature of spiritual care. In the session, we facilitated residents in reflecting on their current posture toward spiritual care while addressing its evidence, obstacles, and timing. We also discussed the need for cultural humility and courage as we followed spiritual care to its root: guiding a person in finding meaning in their current circumstances.
+      In this cross-sectional study, 200 iranian students from the Chabahar Nursing School were selected using a simple random sampling method. The data collection tool included a questionnaire on demographic information, knowledge, attitudes and behaviors towards the environment, environmental ethics, and spiritual health. Partial least squares structural equation modeling (PLS-SEM) was utilized to evaluate the conceptual framework in this study.
     
 
 
           Results:
         
       
-      We presented this interactive session to 35 internal medicine residents from all four training years. All residents responded to an embedded pre- and postsurvey question modeled after four attitudes towards spiritual care: rejecting, guarded, pragmatic, and embracing. Out of 22 residents who did not report embracing spiritual care in the presession survey, 10 (45%) reported a more positive attitude toward spiritual care on their postcourse surveys. Twenty-seven residents in attendance (77%) also provided feedback about presentation quality, with a mean rating of 4.7 out of 5 indicating overall satisfaction.
+      The mean score for environmental ethics among nursing students was 65.73±10.61 out of 100. Most of the students (47%) had desirable environmental ethics. The knowledge structure (β=0.46) predicted attitude. The attitude structure also predicted environmental behavior (β=0.28) and spiritual health (β=0.31). Ultimately, the results showed that spiritual health and environmental ethics predict environmental behavior directly and indirectly (p<0.001).
     
 
 
-          Discussion:
+          Conclusion:
         
       
-      A single well-received session on spiritual care for medical residents models the integration of relevant spiritual care curricula into residency training. The resulting module can be modified for physicians of any specialty or seniority and complemented by other skill-based spiritual care curricula.
+      Spiritual health and environmental ethics were strong predictors of environmental behavior. Therefore, it is necessary to take into account not only students' spiritual health but also their ethical behaviors to promote environmental protection behaviors in the future.

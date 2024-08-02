@@ -1,27 +1,20 @@
-Investigation of environmental ethics, spiritual health, and its relationship with environmental protection behaviors in nursing students
+Yoga and Physical Therapy for Chronic Pain and Opioid Use Disorder Onsite in an Opioid Treatment Program: A Randomized Controlled Trial
 
-Objective:
+Background:
         
       
-      To investigate the relationship between environmental ethics, spiritual health, and environmental behavior among nursing students.
+      There is a lack of integrated treatment for chronic pain and opioid use disorder (OUD). Yoga and physical therapy (PT) may improve pain and physical function of people living with (PLW) chronic low back pain (CLBP) and may also reduce opioid craving and use, but PLW with OUD face barriers to accessing these interventions. We hypothesize that compared to treatment as usual (TAU), providing yoga and PT onsite at opioid treatment programs (OTPs) will be effective at improving pain, opioid use, and quality of life among people with CLBP and OUD, and will be cost-effective.
     
 
 
           Methods:
         
       
-      In this cross-sectional study, 200 iranian students from the Chabahar Nursing School were selected using a simple random sampling method. The data collection tool included a questionnaire on demographic information, knowledge, attitudes and behaviors towards the environment, environmental ethics, and spiritual health. Partial least squares structural equation modeling (PLS-SEM) was utilized to evaluate the conceptual framework in this study.
+      In this hybrid type-1 effectiveness-implementation study, we will randomly assign 345 PLW CLBP and OUD from OTPs in the Bronx, NY, to 12 weeks of onsite yoga, onsite PT, or TAU. Primary outcomes are pain intensity, opioid use, and cost-effectiveness. Secondary outcomes include physical function and overall well-being.
     
 
 
-          Results:
+          Discussion:
         
       
-      The mean score for environmental ethics among nursing students was 65.73±10.61 out of 100. Most of the students (47%) had desirable environmental ethics. The knowledge structure (β=0.46) predicted attitude. The attitude structure also predicted environmental behavior (β=0.28) and spiritual health (β=0.31). Ultimately, the results showed that spiritual health and environmental ethics predict environmental behavior directly and indirectly (p<0.001).
-    
-
-
-          Conclusion:
-        
-      
-      Spiritual health and environmental ethics were strong predictors of environmental behavior. Therefore, it is necessary to take into account not only students' spiritual health but also their ethical behaviors to promote environmental protection behaviors in the future.
+      This trial tests an innovative, patient-centered approach to combined management for pain and OUD in real-world settings. We rigorously examine the efficacy of yoga and PT onsite at OTPs as nonpharmacologic, cost-effective treatments among people with CLBP and OUD who face barriers to integrated care.

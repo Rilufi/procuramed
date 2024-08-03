@@ -1,20 +1,34 @@
-Yoga and Physical Therapy for Chronic Pain and Opioid Use Disorder Onsite in an Opioid Treatment Program: A Randomized Controlled Trial
+Roles of Chaplains and Clergy in Spiritual Care for African Americans in Hospice: A Pilot Study
 
-Background:
+Context:
         
       
-      There is a lack of integrated treatment for chronic pain and opioid use disorder (OUD). Yoga and physical therapy (PT) may improve pain and physical function of people living with (PLW) chronic low back pain (CLBP) and may also reduce opioid craving and use, but PLW with OUD face barriers to accessing these interventions. We hypothesize that compared to treatment as usual (TAU), providing yoga and PT onsite at opioid treatment programs (OTPs) will be effective at improving pain, opioid use, and quality of life among people with CLBP and OUD, and will be cost-effective.
+      Spiritual care is recognition of patient and caregiver spiritual/religious needs and attention to those needs. Caregivers of African American hospice patients are more likely to report worse emotional/religious support. Yet, spiritual care delivery and roles of community clergy and chaplains for African American hospice patients are not well understood.
+    
+
+
+          Objectives:
+        
+      
+      Examine who provides spiritual care to African American hospice patients and caregivers.
     
 
 
           Methods:
         
       
-      In this hybrid type-1 effectiveness-implementation study, we will randomly assign 345 PLW CLBP and OUD from OTPs in the Bronx, NY, to 12 weeks of onsite yoga, onsite PT, or TAU. Primary outcomes are pain intensity, opioid use, and cost-effectiveness. Secondary outcomes include physical function and overall well-being.
+      Partnering with large, urban/suburban community hospice, we interviewed caregivers of deceased African American hospice patients (n = 12), their clergy (n = 3) and chaplains (n = 5). Using a phenomenological qualitative study design, we coded transcripts and deceased patient chart data and conducted thematic analysis to identify themes.
     
 
 
-          Discussion:
+          Results:
         
       
-      This trial tests an innovative, patient-centered approach to combined management for pain and OUD in real-world settings. We rigorously examine the efficacy of yoga and PT onsite at OTPs as nonpharmacologic, cost-effective treatments among people with CLBP and OUD who face barriers to integrated care.
+      Community clergy and chaplains tend to not interact and provide different aspects of emotional, religious and spiritual support to hospice patients and families. Clergy and chaplains agreed that rapport and openness of the patient were main factors in meeting spiritual care needs. Clergy provided interaction with a trusted person and connection to church, congregational support, religious beliefs/theology, and practices. Chaplains focused on present needs and issues of death and dying.
+    
+
+
+          Conclusion:
+        
+      
+      Clergy and chaplains have distinct, complementary roles in providing spiritual care to African American hospice patients and families. Both are needed to provide desired spiritual care for African American hospice patients and their caregivers. Robust spiritual care programs need to ensure chaplains have sufficient time to spend with patients and families and incorporate collaboration, handoffs and integrated processes for clergy and chaplains. Research is needed on effectively including clergy in hospice spiritual care delivery.

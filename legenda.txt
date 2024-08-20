@@ -1,27 +1,55 @@
-Perceptions of patients and healthcare providers regarding barriers and enablers of HIV anti-retroviral therapy among women at a regional hospital in Ghana: implications for national HIV/AIDS control
+Telehealth Mindfulness-Based Interventions for Chronic Pain: The LAMP Randomized Clinical Trial
 
-Background:
+Importance:
         
       
-      The Acquired Immune Deficiency Syndrome (AIDS) pandemic has created a lot of devastation over the last four decades and continues to be a public health threat. Anti-retroviral treatment (ART), a group of medications that people who have been diagnosed with the Human Immunodeficiency Virus (HIV) infection take, has been shown to be efficacious and has significantly improved the fight against the disease. In Ghana, women carry a higher prevalence and incidence of HIV. The study's objectives were to understand the experiences of women living with HIV/AIDS on ART and determine the barriers and enablers for ART uptake from the perspective of both the females living with HIV and their healthcare providers in the Upper East Regional Hospital of Ghana.
+      Although mindfulness-based interventions (MBIs) are evidence-based treatments for chronic pain and comorbid conditions, implementing them at scale poses many challenges, such as the need for dedicated space and trained instructors.
     
 
 
-          Methods:
+          Objective:
         
       
-      This was a qualitative study that used interviews to acquire data from women living with HIV on the perceived barriers and enablers for ART. The Upper East Regional Hospital in Ghana was the study site. We used a phenomenological approach to explore the lived experiences, perceptions, and meanings associated with ART among women. We collected data until we reached thematic saturation, interviewing a total of sixteen women living with HIV. We conducted a focus group discussion with nine healthcare workers providing care at the ART clinic. Data were analysed using thematic analysis.
+      To examine group and self-paced, scalable, telehealth MBIs, for veterans with chronic pain, compared to usual care.
+    
+
+
+          Design, setting, and participants:
+        
+      
+      This was a randomized clinical trial of veterans with moderate to severe chronic pain, recruited from 3 Veterans Affairs facilities from November 2020 to May 2022. Follow-up was completed in August 2023.
+    
+
+
+          Interventions:
+        
+      
+      Two 8-week telehealth MBIs (group and self-paced) were compared to usual care (control). The group MBI was done via videoconference with prerecorded mindfulness education and skill training videos by an experienced instructor, accompanied by facilitated discussions. The self-paced MBI was similar but completed asynchronously and supplemented by 3 individual facilitator calls.
+    
+
+
+          Main outcomes and measures:
+        
+      
+      The primary outcome was pain-related function using the Brief Pain Inventory interference scale at 3 time points: 10 weeks, 6 months, and 1 year. Secondary outcomes included biopsychosocial outcomes: pain intensity, physical function, anxiety, fatigue, sleep disturbance, participation in social roles and activities, depression, patient ratings of improvement of pain, and posttraumatic stress disorder.
     
 
 
           Results:
         
       
-      Women living with HIV and their healthcare providers viewed an environment that provided encouragement and support from healthcare workers and patients' relatives, the ability to conceal HIV status, peer counselling, and the perceived benefits of therapy as enablers of ART uptake and medication adherence. The following were barriers to ART uptake and adherence: ill health, forgetfulness, long distances to ART clinics, cultural and spiritual beliefs, and fear of stigma.
+      Among 811 veterans randomized (mean [SD] age, 54.6 [12.9] years; 387 [47.7%] women), 694 participants (85.6%) completed the trial. Averaged across all 3 time points, pain interference scores were significantly lower for both MBIs compared to usual care (group MBI vs control difference: -0.4 [95% CI, -0.7 to -0.2]; self-paced vs control difference: -0.7 [95% CI, -1.0 to -0.4]). Additionally, both MBI arms had significantly better scores on the following secondary outcomes: pain intensity, patient global impression of change, physical function, fatigue, sleep disturbance, social roles and activities, depression, and posttraumatic stress disorder. Both group and self-paced MBIs did not significantly differ from one another. The probability of 30% improvement from baseline compared to control was greater for group MBI at 10 weeks and 6 months, and for self-paced MBI, at all 3 time points.
     
 
 
-          Conclusions:
+          Conclusions and relevance:
         
       
-      Enablers of ART uptake should be expanded upon and encouraged so that women living with HIV/AIDS can access drugs in a timely and stress-free manner. On the other hand, the barriers identified can be addressed through education, the expansion of healthcare infrastructure, and the economic empowerment of women.
+      In this randomized clinical trial, scalable telehealth MBIs improved pain-related function and biopsychosocial outcomes compared to usual care among veterans with chronic pain. Relatively low-resource telehealth-based MBIs could help accelerate and improve the implementation of nonpharmacological pain treatment in health care systems.
+    
+
+
+          Trial registration:
+        
+      
+      ClinicalTrials.gov Identifier: NCT04526158.

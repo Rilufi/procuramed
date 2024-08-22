@@ -1,34 +1,34 @@
-Wellness and Stress Management Practices Among Healthcare Professionals and Health Professional Students
+Insights Into Sociodemographic Influences on Type 2 Diabetes Care and Opportunities for Digital Health Promotion in Port Harcourt, Nigeria: Quantitative Study
 
-Purpose:
+Background:
         
       
-      Healthcare professionals experience stressors that begin during training and persist into their careers that adversely impact their well-being. This study aims to identify students' and professionals' stress levels, satisfaction with wellness domains, barriers to wellness, and stress management practices.
+      A significant percentage of the Nigerian population has type 2 diabetes (T2D), and a notable portion of these patients also live with comorbidities. Despite its increasing prevalence in Nigeria due to factors such as poor eating and exercise habits, there are insufficient reliable data on its incidence in major cities such as Port Harcourt, as well as on the influence of sociodemographic factors on current self-care and collaborative T2D care approaches using technology. This, coupled with a significant lack of context-specific digital health interventions for T2D care, is our major motivation for the study.
     
 
 
-          Design:
+          Objective:
         
       
-      This study was a cross-sectional self-reported survey study.
+      This study aims to (1) explore the sociodemographic profile of people with T2D and understand how it directly influences their care; (2) generate an accurate understanding of collaborative care practices, with a focus on nuances in the contextual provision of T2D care; and (3) identify opportunities for improving the adoption of digital health technologies based on the current understanding of technology use and T2D care.
     
 
 
-          Settings and sample:
+          Methods:
         
       
-      The study included students (N = 242) and professionals (N = 237) from medicine, nursing, pharmacy, physical therapy, social work, and counseling/psychology.
+      We designed questionnaires aligned with the study's objectives to obtain quantitative data, using both WhatsApp (Meta Platforms, Inc) and in-person interactions. A social media campaign aimed at reaching a hard-to-reach audience facilitated questionnaire delivery via WhatsApp, also allowing us to explore its feasibility as a data collection tool. In parallel, we distributed surveys in person. We collected 110 responses in total: 83 (75.5%) from in-person distributions and 27 (24.5%) from the WhatsApp approach. Data analysis was conducted using descriptive and inferential statistical methods on SPSS Premium (version 29; IBM Corp) and JASP (version 0.16.4; University of Amsterdam) software. This dual approach ensured comprehensive data collection and analysis for our study.
     
 
 
-          Measures:
+          Results:
         
       
-      The Managing Health & Wellness in Health Professions Training and Practice survey was used to capture wellness practices and barriers among participants. Results: Students reported significantly higher perceived stress compared to professionals (P < 0.001). Total wellness is significantly higher among professionals compared to students (P < 0.001). A higher stress rate is significantly related to being female, having a lower wellness score, and facing more barriers (P < 0.001). Intellectual health is the most valuable wellness domain for providers (M = 3.71, SD = 0.9) and students (M = 3.43, SD = 0.85), followed by spiritual health for providers (M = 3.4, SD = 1.1), and work/learning environment for students (M = 3.33, SD = 0.93). Professionals and students are least satisfied with their physical and financial health. Barriers include fatigue, workload/productivity in clinical practice, work hours, and burnout.
+      Results were categorized into 3 groups to address our research objectives. We found that men with T2D were significantly older (mean 61 y), had higher household incomes, and generally held higher academic degrees compared to women (P=.03). No statistically significant relationship was found between gender and the frequency of hospital visits (P=.60) or pharmacy visits (P=.48), and cultural differences did not influence disease incidence. Regarding management approaches, 75.5% (83/110) relied on prescribed medications; 60% (66/110) on dietary modifications; and 35.5% (39/110) and 20% (22/110) on traditional medicines and spirituality, respectively. Most participants (82/110, 74.5%) were unfamiliar with diabetes care technologies, and 89.2% (98/110) of those using technology were only familiar with glucometers. Finally, participants preferred seeking health information in person (96/110, 87.3%) over digital means.
     
 
 
           Conclusions:
         
       
-      Healthcare professionals exhibit a variety of stress management practices, encounter barriers, and prioritize different wellness domains. Healthcare systems should incorporate self-care education into their curricula and implement systemic changes to foster a thriving healthcare workforce.
+      By identifying the influence of sociodemographic factors on diabetes care and health or information seeking behaviors, we were able to identify context-specific opportunities for enhancing the adoption of digital health technologies.

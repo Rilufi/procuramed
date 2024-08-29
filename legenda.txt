@@ -1,34 +1,27 @@
-Insights Into Sociodemographic Influences on Type 2 Diabetes Care and Opportunities for Digital Health Promotion in Port Harcourt, Nigeria: Quantitative Study
+Beliefs negatively mediate adolescents' and adults' knowledge about sickle cell disease prevention and relationship choices; a one-center exploratory study in Central Region, Ghana
 
 Background:
         
       
-      A significant percentage of the Nigerian population has type 2 diabetes (T2D), and a notable portion of these patients also live with comorbidities. Despite its increasing prevalence in Nigeria due to factors such as poor eating and exercise habits, there are insufficient reliable data on its incidence in major cities such as Port Harcourt, as well as on the influence of sociodemographic factors on current self-care and collaborative T2D care approaches using technology. This, coupled with a significant lack of context-specific digital health interventions for T2D care, is our major motivation for the study.
-    
-
-
-          Objective:
-        
-      
-      This study aims to (1) explore the sociodemographic profile of people with T2D and understand how it directly influences their care; (2) generate an accurate understanding of collaborative care practices, with a focus on nuances in the contextual provision of T2D care; and (3) identify opportunities for improving the adoption of digital health technologies based on the current understanding of technology use and T2D care.
+      Sickle cell disease (SCD) is a common monogenic inheritable condition in sub-Saharan Africa. 30% of Ghanaians are estimated to be carriers creating a condition for stable SCD penetrance. Being inheritable, SCD is scientifically preventable through intentional spousal selection. This study therefore explored young adults' knowledge, beliefs and prevention strategies regarding SCD.
     
 
 
           Methods:
         
       
-      We designed questionnaires aligned with the study's objectives to obtain quantitative data, using both WhatsApp (Meta Platforms, Inc) and in-person interactions. A social media campaign aimed at reaching a hard-to-reach audience facilitated questionnaire delivery via WhatsApp, also allowing us to explore its feasibility as a data collection tool. In parallel, we distributed surveys in person. We collected 110 responses in total: 83 (75.5%) from in-person distributions and 27 (24.5%) from the WhatsApp approach. Data analysis was conducted using descriptive and inferential statistical methods on SPSS Premium (version 29; IBM Corp) and JASP (version 0.16.4; University of Amsterdam) software. This dual approach ensured comprehensive data collection and analysis for our study.
+      This exploratory study employed a mixed-methods approach (semi-structured questionnaires and focus group discussion [FGD]) to explore the SCD knowledge and beliefs of participants (15-49 years). The data collection was intentionally sequential; initial administration of 386 questionnaires and then followed by the FGD (16 participants). FGD was thematically analysed whereas quantitative data was explored using structural equation modeling (SEM); p < 0.05 was considered statistically significant under two-tailed assumptions.
     
 
 
           Results:
         
       
-      Results were categorized into 3 groups to address our research objectives. We found that men with T2D were significantly older (mean 61 y), had higher household incomes, and generally held higher academic degrees compared to women (P=.03). No statistically significant relationship was found between gender and the frequency of hospital visits (P=.60) or pharmacy visits (P=.48), and cultural differences did not influence disease incidence. Regarding management approaches, 75.5% (83/110) relied on prescribed medications; 60% (66/110) on dietary modifications; and 35.5% (39/110) and 20% (22/110) on traditional medicines and spirituality, respectively. Most participants (82/110, 74.5%) were unfamiliar with diabetes care technologies, and 89.2% (98/110) of those using technology were only familiar with glucometers. Finally, participants preferred seeking health information in person (96/110, 87.3%) over digital means.
+      Whereas 98.7% reported having heard about SCD, < 50% got the information through formal education. Overall, 49.7% knew their respective SCD status; the proportion increased with age (48.8% in < 30 years vs 64.4% in ≥ 30 years old), or higher degree status (48.8% in undergraduates vs 67.4% in postgraduates). Moreover, whereas nine-in-ten correctly identified that SCD is hereditable, three-in-ten believed that having a SCD child was a matter of fate. Our FGD revealed that whereas curses, and spiritual attack were misconceived as potential causes of SCD, stigmatization associated with SCD was a major concern. The SEM demonstrated that one's knowledge about SCD prevention is significantly positively associated with relationship choices (b = 0.757, p < 0.05). Also, a participant's knowledge about SCD preventive strategies was significantly associated with the individual's beliefs about SCD (b = 0.335; p < 0.05). However, a participant's SCD beliefs negatively mediated SCD preventive strategies-relationship choices association.
     
 
 
           Conclusions:
         
       
-      By identifying the influence of sociodemographic factors on diabetes care and health or information seeking behaviors, we were able to identify context-specific opportunities for enhancing the adoption of digital health technologies.
+      SCD beliefs likely transform linear quantitative associations into a complex non-linear interaction; public health campaigns ought to unearth and address SCD beliefs to maximize achieving the intended targets.

@@ -1,27 +1,27 @@
-Beliefs negatively mediate adolescents' and adults' knowledge about sickle cell disease prevention and relationship choices; a one-center exploratory study in Central Region, Ghana
+Yoga intervention for colorectal cancer survivors: a qualitative study exploring participants' expectations and experiences
 
-Background:
+Introduction:
         
       
-      Sickle cell disease (SCD) is a common monogenic inheritable condition in sub-Saharan Africa. 30% of Ghanaians are estimated to be carriers creating a condition for stable SCD penetrance. Being inheritable, SCD is scientifically preventable through intentional spousal selection. This study therefore explored young adults' knowledge, beliefs and prevention strategies regarding SCD.
+      Colorectal cancer (CRC) survivors often struggle with side effects following treatment such as reduced quality of life, fatigue and psychological distress and need therefore efficient comprehensive interventions. The aim of this qualitative study was to explore CRC survivors' expectations before the yoga intervention as well as their unique experiences beyond those reported with standard questionnaires.
     
 
 
           Methods:
         
       
-      This exploratory study employed a mixed-methods approach (semi-structured questionnaires and focus group discussion [FGD]) to explore the SCD knowledge and beliefs of participants (15-49 years). The data collection was intentionally sequential; initial administration of 386 questionnaires and then followed by the FGD (16 participants). FGD was thematically analysed whereas quantitative data was explored using structural equation modeling (SEM); p < 0.05 was considered statistically significant under two-tailed assumptions.
+      Interpretative phenomenological approach was used in this qualitative study. Semi-structured interviews were conducted before and after a 10-week yoga program (90 min once a week, Hatha Yoga) with CRC survivors enrolled in a randomized controlled trial. Thematic analysis was used to uncover themes present in participants' accounts.
     
 
 
           Results:
         
       
-      Whereas 98.7% reported having heard about SCD, < 50% got the information through formal education. Overall, 49.7% knew their respective SCD status; the proportion increased with age (48.8% in < 30 years vs 64.4% in ≥ 30 years old), or higher degree status (48.8% in undergraduates vs 67.4% in postgraduates). Moreover, whereas nine-in-ten correctly identified that SCD is hereditable, three-in-ten believed that having a SCD child was a matter of fate. Our FGD revealed that whereas curses, and spiritual attack were misconceived as potential causes of SCD, stigmatization associated with SCD was a major concern. The SEM demonstrated that one's knowledge about SCD prevention is significantly positively associated with relationship choices (b = 0.757, p < 0.05). Also, a participant's knowledge about SCD preventive strategies was significantly associated with the individual's beliefs about SCD (b = 0.335; p < 0.05). However, a participant's SCD beliefs negatively mediated SCD preventive strategies-relationship choices association.
+      Nine patients participated in the interviews, mean interview duration was 27.49 min (SD = 7.71) before and 38.41 min (SD = 15.93) after the intervention. Our analysis identified following themes: (1) representations and expectations from the yoga intervention; (2) course structure and implementation; (3) perceptions and effects of the intervention; (4) differences between the study yoga intervention and other physical activities. The superordinate theme regarding effects of intervention included aspects of intervention at multiple levels such as emotional, physical, behavioral and spiritual.
     
 
 
           Conclusions:
         
       
-      SCD beliefs likely transform linear quantitative associations into a complex non-linear interaction; public health campaigns ought to unearth and address SCD beliefs to maximize achieving the intended targets.
+      This qualitative study provides valuable insight regarding CRC survivors' expectations and experiences following a 10-week yoga intervention. While expectations varied from skepticism to specific symptom improvement, the majority of participants had a positive, open attitude towards yoga. Consistent with participants' experiences, yoga may represent a promising intervention for CRC survivors if the groups' specific concerns are taken into account.

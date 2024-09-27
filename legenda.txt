@@ -1,3 +1,76 @@
-Enhancing training in spiritual and religious competencies in mental health graduate education: Evaluation of an integrated curricular approach
+Integrating Palliative Care and Heart Failure: the PalliatHeartSynthesis realist synthesis
 
-Despite practice guidelines for multiculturally competent care, including spiritual/religious diversity, most mental health graduate training programs do not formally address spiritual/religious competencies. Thus, we enhanced the Spiritual Competency Training in Mental Health (SCT-MH) course curriculum to train graduate students in foundational attitudes, knowledge, and skills for addressing clients' spirituality and/or religion (S/R). The hybrid (online and in-person) SCT-MH course curriculum was integrated into existing required graduate clinical courses (replacing 15% of a course's curriculum) and taught to 309 students by 20 instructors in 20 different graduate training programs across counseling, psychology, and social work disciplines. Using a multiple baseline waitlist control design in which students served as their own controls, students completed validated assessments at three timepoints evaluating their spiritual/religious competencies for understanding the intersection between S/R and mental health. We also collected qualitative data from the students to evaluate acceptability of the content and format of the training program. Students' scores on all seven measures of spiritual/religious competencies had a statistically significant positive increase after engaging with the SCT-MH curriculum compared to the control period. At the end of the course, 97% of the students envisioned using spiritually integrated therapy techniques with their clients at least some of the time, 92% or more rated the materials as helpful and relevant, and 96% were satisfied with the training modules. Results demonstrate that dedicating a small (i.e., 6 hours of class time; 10 hours outside class time) but intentional amount of course time to teaching spiritual/religious competencies increases students' attitudes, knowledge, and skills for attending to clients' S/R in clinical practice. The SCT-MH hybrid course content is freely available to all graduate programs on our website. https://www.spiritualandreligiouscompetenciesproject.com/resources/sct-mh.
+Background:
+        
+      
+      Cardiovascular disease is the most common cause of death worldwide, highlighting the need for studies to determine options for palliative care within the management of patients with heart failure. Although there are promising examples of integrated palliative care and heart failure interventions, there is heterogeneity in terms of countries, healthcare settings, multidisciplinary team delivery, modes of delivery and intervention components. Hence, this review is vital to identify what works, for whom and in what circumstances when integrating palliative care and heart failure.
+    
+
+
+          Objectives:
+        
+      
+      To (1) develop a programme theory of why, for whom and in what contexts desired outcomes occur; and (2) use the programme theory to co-produce with stakeholders key implications to inform best practice and future research.
+    
+
+
+          Design:
+        
+      
+      A realist review of the literature underpinned by the Realist and Meta-narrative Evidence Syntheses: Evolving Standards quality and reporting standards.
+    
+
+
+          Data sources:
+        
+      
+      Searches of bibliographic databases were conducted in November 2021 using the following databases: EMBASE, MEDLINE, PsycInfo, AMED, HMIC and CINAHL. Further relevant documents were identified via alerts and the stakeholder group.
+    
+
+
+          Review methods:
+        
+      
+      Realist review is a theory-orientated and explanatory approach to the synthesis of evidence. A realist synthesis was used to synthesise the evidence as successful implementation of integrated palliative care and heart failure depends on the context and people involved. The realist synthesis followed Pawson's five iterative stages: (1) locating existing theories; (2) searching for evidence; (3) document selection; (4) extracting and organising data; and (5) synthesising the evidence and drawing conclusions. We recruited an international stakeholder group (n = 32), including National Health Service management, healthcare professionals involved in the delivery of palliative care and heart failure, policy and community groups, plus members of the public and patients, to advise and give us feedback throughout the project, along with Health Education England to disseminate findings.
+    
+
+
+          Results:
+        
+      
+      In total, 1768 documents were identified, of which 1076 met the inclusion criteria. This was narrowed down to 130 included documents based on the programme theory and discussions with stakeholders. Our realist analysis developed and refined 6 overarching context-mechanism-outcome configurations and 30 sub context-mechanism-outcome configurations. The realist synthesis of the literature and stakeholder feedback helped uncover key intervention strategies most likely to support integration of palliative care into heart failure management. These included protected time for evidence-based palliative care education and choice of educational setting (e.g. online, face to face or hybrid), and the importance of increased awareness of the benefits of palliative care as key intervention strategies, the emotive and intellectual need for integrating palliative care and heart failure via credible champions, seeing direct patient benefit, and prioritising palliative care and heart failure guidelines in practice. The implications of our findings are further outlined in the capability, opportunity, motivation, behaviour model.
+    
+
+
+          Limitations:
+        
+      
+      The realist approach to analysis means that findings are based on our interpretation of the data.
+    
+
+
+          Future work:
+        
+      
+      Future work should use the implications to initiate and optimise palliative care in heart failure management.
+    
+
+
+          Conclusion:
+        
+      
+      Ongoing refinement of the programme theory at each stakeholder meeting allowed us to co-produce implications. These implications outline the required steps to ensure the core components and determinants of behaviour are in place so that all key players have the capacity, opportunity and motivation to integrate palliative care into heart failure management.
+    
+
+
+          Study registration:
+        
+      
+      This study is registered as PROSPERO CRD42021240185.
+    
+
+
+          Funding:
+        
+      
+      This award was funded by the National Institute for Health and Care Research (NIHR) Health and Social Care Delivery Research programme (NIHR award ref: NIHR131800) and is published in full in Health and Social Care Delivery Research; Vol. 12, No. 34. See the NIHR Funding and Awards website for further award information.

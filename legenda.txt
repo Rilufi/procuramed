@@ -1,76 +1,27 @@
-Integrating Palliative Care and Heart Failure: the PalliatHeartSynthesis realist synthesis
+"It's not a one-person show" E-learning course in neuropalliative care: A qualitative analysis of participants' educational gains and self-reported outcomes
 
-Background:
+Objectives:
         
       
-      Cardiovascular disease is the most common cause of death worldwide, highlighting the need for studies to determine options for palliative care within the management of patients with heart failure. Although there are promising examples of integrated palliative care and heart failure interventions, there is heterogeneity in terms of countries, healthcare settings, multidisciplinary team delivery, modes of delivery and intervention components. Hence, this review is vital to identify what works, for whom and in what circumstances when integrating palliative care and heart failure.
+      Patients with progressive neurologic illness still lack access to quality palliative care services. Barriers to the comprehensive provision of neuropalliative care include gaps in palliative care education. To address this barrier, a novel international model of neuropalliative care education e-learning program was launched in 2022.
     
 
 
-          Objectives:
+          Methods:
         
       
-      To (1) develop a programme theory of why, for whom and in what contexts desired outcomes occur; and (2) use the programme theory to co-produce with stakeholders key implications to inform best practice and future research.
-    
-
-
-          Design:
-        
-      
-      A realist review of the literature underpinned by the Realist and Meta-narrative Evidence Syntheses: Evolving Standards quality and reporting standards.
-    
-
-
-          Data sources:
-        
-      
-      Searches of bibliographic databases were conducted in November 2021 using the following databases: EMBASE, MEDLINE, PsycInfo, AMED, HMIC and CINAHL. Further relevant documents were identified via alerts and the stakeholder group.
-    
-
-
-          Review methods:
-        
-      
-      Realist review is a theory-orientated and explanatory approach to the synthesis of evidence. A realist synthesis was used to synthesise the evidence as successful implementation of integrated palliative care and heart failure depends on the context and people involved. The realist synthesis followed Pawson's five iterative stages: (1) locating existing theories; (2) searching for evidence; (3) document selection; (4) extracting and organising data; and (5) synthesising the evidence and drawing conclusions. We recruited an international stakeholder group (n = 32), including National Health Service management, healthcare professionals involved in the delivery of palliative care and heart failure, policy and community groups, plus members of the public and patients, to advise and give us feedback throughout the project, along with Health Education England to disseminate findings.
+      This is a qualitative study on the self-reported learning outcomes and educational gains of participants of a neuropalliative care e-learning course.
     
 
 
           Results:
         
       
-      In total, 1768 documents were identified, of which 1076 met the inclusion criteria. This was narrowed down to 130 included documents based on the programme theory and discussions with stakeholders. Our realist analysis developed and refined 6 overarching context-mechanism-outcome configurations and 30 sub context-mechanism-outcome configurations. The realist synthesis of the literature and stakeholder feedback helped uncover key intervention strategies most likely to support integration of palliative care into heart failure management. These included protected time for evidence-based palliative care education and choice of educational setting (e.g. online, face to face or hybrid), and the importance of increased awareness of the benefits of palliative care as key intervention strategies, the emotive and intellectual need for integrating palliative care and heart failure via credible champions, seeing direct patient benefit, and prioritising palliative care and heart failure guidelines in practice. The implications of our findings are further outlined in the capability, opportunity, motivation, behaviour model.
+      Thematic analysis shows changes in the participants' perceptions of neuropalliative care and several specific educational gains. After attending the course, participants recognized neuropalliative care as a multiprofessional and interdisciplinary effort requiring more than medical knowledge and disease-specific treatment skills. They gained understanding of the complexity of prognosis in neurological diseases, as well as ethical concepts as the basis to approach difficult decisions. Valuing the needs of patients and caregivers, as well as honest and open communication were recognized as key components of the caring process. In particular, providing emotional support and building relationships to enhance the spiritual component of care were avidly discussed as essential nonmedical treatment options.
     
 
 
-          Limitations:
+          Significance of results:
         
       
-      The realist approach to analysis means that findings are based on our interpretation of the data.
-    
-
-
-          Future work:
-        
-      
-      Future work should use the implications to initiate and optimise palliative care in heart failure management.
-    
-
-
-          Conclusion:
-        
-      
-      Ongoing refinement of the programme theory at each stakeholder meeting allowed us to co-produce implications. These implications outline the required steps to ensure the core components and determinants of behaviour are in place so that all key players have the capacity, opportunity and motivation to integrate palliative care into heart failure management.
-    
-
-
-          Study registration:
-        
-      
-      This study is registered as PROSPERO CRD42021240185.
-    
-
-
-          Funding:
-        
-      
-      This award was funded by the National Institute for Health and Care Research (NIHR) Health and Social Care Delivery Research programme (NIHR award ref: NIHR131800) and is published in full in Health and Social Care Delivery Research; Vol. 12, No. 34. See the NIHR Funding and Awards website for further award information.
+      E-learning courses are helping to close the gaps in healthcare professionals' knowledge and skills about neuropalliative care.

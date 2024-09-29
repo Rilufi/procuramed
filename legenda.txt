@@ -1,27 +1,27 @@
-"It's not a one-person show" E-learning course in neuropalliative care: A qualitative analysis of participants' educational gains and self-reported outcomes
+Reasons for underutilization of community care facilities for the elderly in China
 
-Objectives:
+Background:
         
       
-      Patients with progressive neurologic illness still lack access to quality palliative care services. Barriers to the comprehensive provision of neuropalliative care include gaps in palliative care education. To address this barrier, a novel international model of neuropalliative care education e-learning program was launched in 2022.
+      China's government has invested a great deal of resources to improve the coverage rate of community care facilities for the elderly. However, the facilities that have been built are underutilized.
     
 
 
           Methods:
         
       
-      This is a qualitative study on the self-reported learning outcomes and educational gains of participants of a neuropalliative care e-learning course.
+      Referring to the Anderson model, a framework for analyzing the utilization of community care facilities for the elderly was constructed. Descriptive statistics on survey data from 17 communities demonstrated the status of the utilization, and binary logistic regression analysis examined the influencing factors of the utilization.
     
 
 
           Results:
         
       
-      Thematic analysis shows changes in the participants' perceptions of neuropalliative care and several specific educational gains. After attending the course, participants recognized neuropalliative care as a multiprofessional and interdisciplinary effort requiring more than medical knowledge and disease-specific treatment skills. They gained understanding of the complexity of prognosis in neurological diseases, as well as ethical concepts as the basis to approach difficult decisions. Valuing the needs of patients and caregivers, as well as honest and open communication were recognized as key components of the caring process. In particular, providing emotional support and building relationships to enhance the spiritual component of care were avidly discussed as essential nonmedical treatment options.
+      Built community care facilities for the elderly are underutilized and there are significant differences in the influencing factors of the utilization between daily care facilities, medical care facilities, recreation facilities, and spiritual comfort facilities.
     
 
 
-          Significance of results:
+          Conclusions:
         
       
-      E-learning courses are helping to close the gaps in healthcare professionals' knowledge and skills about neuropalliative care.
+      The main reasons for the underutilization can be delineated as follows: (1) The demand for community care facilities is outstripped by the supply, resulting in a surplus; (2) Complex constraints on demand for facilities due to insufficient enabling resources; (3) Inadequacy of community care facilities in meeting expectations. (4) High substitutability of community care facilities; (5) Bureaucratic pressure hindering facility development. To address the underutilization of community care facilities, it is recommended to clarify the community responsibility boundaries for elderly care and the role that the market plays in community care facilities for the elderly.

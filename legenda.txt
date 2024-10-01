@@ -1,27 +1,34 @@
-Reasons for underutilization of community care facilities for the elderly in China
+Proposed Nutrition Competencies for Medical Students and Physician Trainees: A Consensus Statement
 
-Background:
+Importance:
         
       
-      China's government has invested a great deal of resources to improve the coverage rate of community care facilities for the elderly. However, the facilities that have been built are underutilized.
+      In 2022, the US House of Representatives passed a bipartisan resolution (House of Representatives Resolution 1118 at the 117th Congress [2021-2022]) calling for meaningful nutrition education for medical trainees. This was prompted by increasing health care spending attributed to the growing prevalence of nutrition-related diseases and the substantial federal funding via Medicare that supports graduate medical education. In March 2023, medical education professional organizations agreed to identify nutrition competencies for medical education.
     
 
 
-          Methods:
+          Objective:
         
       
-      Referring to the Anderson model, a framework for analyzing the utilization of community care facilities for the elderly was constructed. Descriptive statistics on survey data from 17 communities demonstrated the status of the utilization, and binary logistic regression analysis examined the influencing factors of the utilization.
+      To recommend nutrition competencies for inclusion in medical education to improve patient and population health.
     
 
 
-          Results:
+          Evidence review:
         
       
-      Built community care facilities for the elderly are underutilized and there are significant differences in the influencing factors of the utilization between daily care facilities, medical care facilities, recreation facilities, and spiritual comfort facilities.
+      The research team conducted a rapid literature review to identify existing nutrition-related competencies published between July 2013 and July 2023. Additional competencies were identified from learning objectives in selected nutrition, culinary medicine, and teaching kitchen curricula; dietetic core competencies; and research team-generated de novo competencies. An expert panel of 22 nutrition subject matter experts and 15 residency program directors participated in a modified Delphi process and completed 4 rounds of voting to reach consensus on recommended nutrition competencies, the level of medical education at which they should be included, and recommendations for monitoring implementation and evaluation of these competencies.
     
 
 
-          Conclusions:
+          Findings:
         
       
-      The main reasons for the underutilization can be delineated as follows: (1) The demand for community care facilities is outstripped by the supply, resulting in a surplus; (2) Complex constraints on demand for facilities due to insufficient enabling resources; (3) Inadequacy of community care facilities in meeting expectations. (4) High substitutability of community care facilities; (5) Bureaucratic pressure hindering facility development. To address the underutilization of community care facilities, it is recommended to clarify the community responsibility boundaries for elderly care and the role that the market plays in community care facilities for the elderly.
+      A total of 15 articles met inclusion criteria for competency extraction and yielded 187 competencies. Through review of gray literature and other sources, researchers identified 167 additional competencies for a total of 354 competencies. These competencies were compiled and refined prior to voting. After 4 rounds of voting, 36 competencies were identified for recommendation: 30 at both undergraduate and graduate levels, 2 at the undergraduate level only, and 4 at the graduate level only. Competencies fell into the following nutrition-related themes: foundational nutrition knowledge, assessment and diagnosis, communication skills, public health, collaborative support and treatment for specific conditions, and indications for referral. A total of 36 panelists (97%) recommended nutrition competencies be assessed as part of licensing and board certification examinations.
+    
+
+
+          Conclusions and relevance:
+        
+      
+      These competencies represent a US-based effort to use a modified Delphi process to establish consensus on nutrition competencies for medical students and physician trainees. These competencies will require an iterative process of institutional prioritization, refinement, and inclusion in current and future educational curricula as well as licensure and certification examinations.

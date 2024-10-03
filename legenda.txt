@@ -1,34 +1,27 @@
-Proposed Nutrition Competencies for Medical Students and Physician Trainees: A Consensus Statement
+Resilience and coping during protracted conflict: a comparative analysis of general and evacuees populations
 
-Importance:
+Background:
         
       
-      In 2022, the US House of Representatives passed a bipartisan resolution (House of Representatives Resolution 1118 at the 117th Congress [2021-2022]) calling for meaningful nutrition education for medical trainees. This was prompted by increasing health care spending attributed to the growing prevalence of nutrition-related diseases and the substantial federal funding via Medicare that supports graduate medical education. In March 2023, medical education professional organizations agreed to identify nutrition competencies for medical education.
+      On October 7th, 2023, Hamas launched a surprise attack on Israel, triggering a conflict with Israel in the Gaza Strip. This ongoing war, now six months old, has also seen threats from Hezbollah in Lebanon, as well as from Yemen and Iran. The precarious security situation along Israel's southern and northern borders led to extensive evacuations, with residents relocating within Israel under uncertain conditions concerning their return and property safety. This study compares resilience (societal, SR; community, CR; and individual, IR), hope, morale, distress symptoms (anxiety and depression symptoms), and perceived danger between general Hebrew-speaking adults and evacuee adults a few months post-conflict initiation.
     
 
 
-          Objective:
+          Methods:
         
       
-      To recommend nutrition competencies for inclusion in medical education to improve patient and population health.
+      Data was collected using structured self-reported questionnaires focusing on resilience and coping strategies, administered through two online panel companies. The general population data was collected from January 14-21, 2024 (N = 1,360), and the evacuees' data from March 1-9, 2024 (N = 372; 133 from the north, 239 from the south).
     
 
 
-          Evidence review:
+          Results:
         
       
-      The research team conducted a rapid literature review to identify existing nutrition-related competencies published between July 2013 and July 2023. Additional competencies were identified from learning objectives in selected nutrition, culinary medicine, and teaching kitchen curricula; dietetic core competencies; and research team-generated de novo competencies. An expert panel of 22 nutrition subject matter experts and 15 residency program directors participated in a modified Delphi process and completed 4 rounds of voting to reach consensus on recommended nutrition competencies, the level of medical education at which they should be included, and recommendations for monitoring implementation and evaluation of these competencies.
+      Evacuees reported lower SR and CR, hope, and morale, and higher distress symptoms and perceived danger compared to the general population. No differences in IR were found. Regression analyses identified different primary predictors of SR for each group: hope for the general population and governmental support for evacuees. Additionally, IR significantly predicted outcomes only among evacuees, whereas age, religiosity, and education were significant predictors solely in the general population. One notable similarity emerged: CR served as the second most influential predictor in both samples.
     
 
 
-          Findings:
+          Conclusions:
         
       
-      A total of 15 articles met inclusion criteria for competency extraction and yielded 187 competencies. Through review of gray literature and other sources, researchers identified 167 additional competencies for a total of 354 competencies. These competencies were compiled and refined prior to voting. After 4 rounds of voting, 36 competencies were identified for recommendation: 30 at both undergraduate and graduate levels, 2 at the undergraduate level only, and 4 at the graduate level only. Competencies fell into the following nutrition-related themes: foundational nutrition knowledge, assessment and diagnosis, communication skills, public health, collaborative support and treatment for specific conditions, and indications for referral. A total of 36 panelists (97%) recommended nutrition competencies be assessed as part of licensing and board certification examinations.
-    
-
-
-          Conclusions and relevance:
-        
-      
-      These competencies represent a US-based effort to use a modified Delphi process to establish consensus on nutrition competencies for medical students and physician trainees. These competencies will require an iterative process of institutional prioritization, refinement, and inclusion in current and future educational curricula as well as licensure and certification examinations.
+      The entire population of Israel is affected by the ongoing war, yet evacuees endure a disproportionately severe impact, with potential for increased harm as the conflict persists. The adjustment to a new wartime emergency routine is more complex for evacuees than for the general population. It is crucial for policy and decision-makers to address the distinct differences between evacuees and the general populace to effectively meet their specific needs. Yet, it should be acknowledged that the evacuees represent a heterogenic group, necessitating a detailed subdivision into subgroups to accurately assess and address their unique challenges.

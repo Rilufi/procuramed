@@ -1,27 +1,27 @@
-Resilience and coping during protracted conflict: a comparative analysis of general and evacuees populations
+Caring for Hindu patients at the end-of-life: A narrative review
 
-Background:
+Objectives:
         
       
-      On October 7th, 2023, Hamas launched a surprise attack on Israel, triggering a conflict with Israel in the Gaza Strip. This ongoing war, now six months old, has also seen threats from Hezbollah in Lebanon, as well as from Yemen and Iran. The precarious security situation along Israel's southern and northern borders led to extensive evacuations, with residents relocating within Israel under uncertain conditions concerning their return and property safety. This study compares resilience (societal, SR; community, CR; and individual, IR), hope, morale, distress symptoms (anxiety and depression symptoms), and perceived danger between general Hebrew-speaking adults and evacuee adults a few months post-conflict initiation.
+      This paper reviews the existing literature to identify specific challenges that may arise in the context of providing palliative and end-of-life (EOL) care for Hindu patients in the physical, psychological, and spiritual domains. We offer practical strategies where appropriate to mitigate some of these challenges. We review how the Hindu faith impacts EOL decision-making, including the role of the family in decision-making, completion of advance directives, pain management, and decisions around artificial nutrition and hydration (ANH) and cardiopulmonary resuscitation (CPR).
     
 
 
           Methods:
         
       
-      Data was collected using structured self-reported questionnaires focusing on resilience and coping strategies, administered through two online panel companies. The general population data was collected from January 14-21, 2024 (N = 1,360), and the evacuees' data from March 1-9, 2024 (N = 372; 133 from the north, 239 from the south).
+      The PubMed, MEDLINE Complete, Cochrane, and Embase databases were searched for articles using the search strings combinations of keywords such as Palliative care, Hindu, Hinduism, End of Life Care, India, Spirituality, and South Asian. Once inclusion criteria were applied, 40 manuscripts were eligible for review.
     
 
 
           Results:
         
       
-      Evacuees reported lower SR and CR, hope, and morale, and higher distress symptoms and perceived danger compared to the general population. No differences in IR were found. Regression analyses identified different primary predictors of SR for each group: hope for the general population and governmental support for evacuees. Additionally, IR significantly predicted outcomes only among evacuees, whereas age, religiosity, and education were significant predictors solely in the general population. One notable similarity emerged: CR served as the second most influential predictor in both samples.
+      Our results are organized into the following 4 sections - how Hindu religious or spiritual beliefs intersect with the physical, psychological, and spiritual domains: and decision-making at the EOL.
     
 
 
-          Conclusions:
+          Significance of results:
         
       
-      The entire population of Israel is affected by the ongoing war, yet evacuees endure a disproportionately severe impact, with potential for increased harm as the conflict persists. The adjustment to a new wartime emergency routine is more complex for evacuees than for the general population. It is crucial for policy and decision-makers to address the distinct differences between evacuees and the general populace to effectively meet their specific needs. Yet, it should be acknowledged that the evacuees represent a heterogenic group, necessitating a detailed subdivision into subgroups to accurately assess and address their unique challenges.
+      Hindu beliefs, in particular the role of karma, were shown to impact decision-making regarding pain management, ANH and CPR, and advance directive completion. The complexity of Hindu thought leaves a significant role for interpretation and flexibility for individual factors in decision-making at the EOL.

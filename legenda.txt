@@ -1,27 +1,3 @@
-Caring for Hindu patients at the end-of-life: A narrative review
+Improving Outcomes for ICU Family Members: The Role of Spiritual Care
 
-Objectives:
-        
-      
-      This paper reviews the existing literature to identify specific challenges that may arise in the context of providing palliative and end-of-life (EOL) care for Hindu patients in the physical, psychological, and spiritual domains. We offer practical strategies where appropriate to mitigate some of these challenges. We review how the Hindu faith impacts EOL decision-making, including the role of the family in decision-making, completion of advance directives, pain management, and decisions around artificial nutrition and hydration (ANH) and cardiopulmonary resuscitation (CPR).
-    
-
-
-          Methods:
-        
-      
-      The PubMed, MEDLINE Complete, Cochrane, and Embase databases were searched for articles using the search strings combinations of keywords such as Palliative care, Hindu, Hinduism, End of Life Care, India, Spirituality, and South Asian. Once inclusion criteria were applied, 40 manuscripts were eligible for review.
-    
-
-
-          Results:
-        
-      
-      Our results are organized into the following 4 sections - how Hindu religious or spiritual beliefs intersect with the physical, psychological, and spiritual domains: and decision-making at the EOL.
-    
-
-
-          Significance of results:
-        
-      
-      Hindu beliefs, in particular the role of karma, were shown to impact decision-making regarding pain management, ANH and CPR, and advance directive completion. The complexity of Hindu thought leaves a significant role for interpretation and flexibility for individual factors in decision-making at the EOL.
+Having a family member hospitalized in the intensive care unit (ICU) can be a stressful experience for family members, encompassing both psychological and spiritual distress. With over 5 million ICU admissions annually in the United States, it is imperative to enhance the experiences and coping mechanisms of ICU family members. In particularly challenging situations, some family members even face psychological effects known as post-intensive care syndrome-family, which includes anxiety, depression, and posttraumatic stress. The distress may be worsened when patients and families experience poor communication or medical care, which has been shown to be more common among minoritized populations including Black and Hispanic patients and families. Family members' emotional and spiritual distress also has an effect on the medical decisions they make for the patient. While research has delved into the impact of spiritual care for ICU family members, further investigation is still needed to determine the most effective approaches for delivering such care. This narrative review will describe a conceptual model aimed at guiding future research in this endeavor. The model proposes that chaplains provide emotional, spiritual, and information support to ICU family members. This affects both their ICU experience, decision making, and outcomes for the patient and family. This process is also affected by characteristics of the family such as race, ethnicity, and economic status. This model helps identify gaps in research, including the need for randomized trials of spiritual care that identify mechanisms underlying outcomes and demonstrate impact of spiritual care, and consider race, ethnicity, and other characteristics.

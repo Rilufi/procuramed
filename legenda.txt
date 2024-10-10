@@ -1,34 +1,34 @@
-Social determinants for understanding Muslims' intentions toward seeking mental health help based on the Theory of Planned Behavior
+Faith, Meaning, and Quality of Life: Unveiling the Spirituality of Muslim Patients with Advanced Cancer Undergoing Active Treatment in the Gaza Strip, Palestine
 
-Background:
+Objectives:
         
       
-      Many have found that minorities seek help for mental health problems less than the general population. Such findings are surprising considering that minorities experience higher rates of mental health issues compared to the general population.
+      This study aimed to identify the level of spirituality, faith and meaning, and quality of life (QOL) among Muslim advanced cancer patients undergoing active treatment and to enhance the understanding of the relationships among clinical and socio-demographic factors, spirituality, and QOL of patients in the Gaza Strip.
     
 
 
-          Objectives:
+          Methods:
         
       
-      Employing the Theory of Planned Behavior (TPB), this study aimed to explore the intentions of Muslims living in California and Israel pertaining seeking mental health help (SMHH).
-    
-
-
-          Method and design:
-        
-      
-      A qualitative approach involving semi-structured interviews guided by TPB principles was conducted with 78 participants. Thematic analysis was implemented to identify key themes.
+      A secondary analysis was conducted on a convenience sample of 298 advanced cancer patients. The Arabic versions of the Assessment of Chronic Illness Therapy-Spiritual Well-Being (FACIT-Sp) and the Functional Assessment of Cancer Therapy-General (FACT-G) were used for data collection. Descriptive statistics and generalized linear regression were utilized for data analysis, performed using SPSS 25.0.
     
 
 
           Results:
         
       
-      Five major themes were identified: 1 - Attitudes: Normalization of SMHH entangled with fear; causes and attributions of mental health disorders; perspectives on treatment. 2 - Subjective norms: Support groups; stigma and social norms. 3 - Perceived behavioral control: Personal and environmental facilitators and barriers. 4 - Intentions: High; conditioned preapproval; and low. 5 - Actual help seeking behavior: Religious figures as first resort; incorporating religious practices, and preference of Muslim therapist. Cultural beliefs, stigma, social support, and religion elements were dominant in the TPB model.
+      Participants reported high spirituality well-being scores (Mean = 31.25, SD = 6.25) and relatively high scores on the subscales of meaning/peace (Mean = 19.15, SD = 4.11) and faith (Mean = 12.03, SD = 3.50). Most patients indicated that their faith and spiritual beliefs increased due to their illness. Furthermore, a significant positive relationship was found between spirituality (including its subscales of faith and meaning in life) and QOL. Despite the generally high level of spirituality, special attention should be paid to patients with lung, bladder, and thyroid cancer, lower education levels, and higher cancer grades.
     
 
 
           Conclusions:
         
       
-      The findings underscored the holistic approach among Muslims toward seeking mental help incorporating medical, psychological, social, and spiritual understanding of the mental health condition. This suggests considering social and communal elements in developing interventions, education, and policy for SMHH among Muslims.
+      The Gazan Muslim patients with advanced cancer exhibit high levels of spirituality and faith. We acknowledged that spiritual well-being is a protective factor for QOL. The strong positive correlation between spirituality and QOL emphasizes the need to integrate spiritual care into cancer care.
+    
+
+
+          Implications for nursing practice:
+        
+      
+      It is imperative to incorporate spirituality into health practice and the daily routines of cancer treatment for patients whose spirituality is an important aspect of their identities. The incorporation of spirituality can contribute to the improvement of the quality of patients' life and quality of cancer care.

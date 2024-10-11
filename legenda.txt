@@ -1,34 +1,27 @@
-Faith, Meaning, and Quality of Life: Unveiling the Spirituality of Muslim Patients with Advanced Cancer Undergoing Active Treatment in the Gaza Strip, Palestine
+"The patient as teacher" - thematic analysis of undergraduate medical students' experiences with an experiential learning project in palliative care
 
-Objectives:
+Background:
         
       
-      This study aimed to identify the level of spirituality, faith and meaning, and quality of life (QOL) among Muslim advanced cancer patients undergoing active treatment and to enhance the understanding of the relationships among clinical and socio-demographic factors, spirituality, and QOL of patients in the Gaza Strip.
+      Experiential learning holds high potential for medical students' education in palliative care. At RWTH Aachen University in Germany, medical students can participate in the course "The Patient as Teacher" offering a one-to-one exchange with a terminally ill patient over a period of several weeks complemented with four supervision sessions and writing of a reflective essay. The course had run from 2005 to 2020 before it was paused due to the Covid-19 pandemic. This study aimed to assess the course's value as a palliative care teaching tool by investigating students' motivation and experiences over the years 2005-2020.
     
 
 
           Methods:
         
       
-      A secondary analysis was conducted on a convenience sample of 298 advanced cancer patients. The Arabic versions of the Assessment of Chronic Illness Therapy-Spiritual Well-Being (FACIT-Sp) and the Functional Assessment of Cancer Therapy-General (FACT-G) were used for data collection. Descriptive statistics and generalized linear regression were utilized for data analysis, performed using SPSS 25.0.
+      A stratified sample of 24 essays was taken from all submitted essays (n = 78), eight essays from the years 2005-2009, 2010-2014, and 2015-2020. Subsequently, a thematic analysis of the selected essays was conducted.
     
 
 
           Results:
         
       
-      Participants reported high spirituality well-being scores (Mean = 31.25, SD = 6.25) and relatively high scores on the subscales of meaning/peace (Mean = 19.15, SD = 4.11) and faith (Mean = 12.03, SD = 3.50). Most patients indicated that their faith and spiritual beliefs increased due to their illness. Furthermore, a significant positive relationship was found between spirituality (including its subscales of faith and meaning in life) and QOL. Despite the generally high level of spirituality, special attention should be paid to patients with lung, bladder, and thyroid cancer, lower education levels, and higher cancer grades.
+      The students felt motivated by the opportunity to gain more experience in palliative care, to improve their communication skills and to decrease insecurities in interaction with terminally ill patients. They learned about the patient's biography and medical history, and encountered physical, psychological, social, and spiritual dimensions of living with a life-limiting disease. Moreover, they experienced relationship building and communication with a terminally ill patient outside their role as future doctors. Ultimately, they considered their participation as a beneficial experience on both a personal and professional level.
     
 
 
           Conclusions:
         
       
-      The Gazan Muslim patients with advanced cancer exhibit high levels of spirituality and faith. We acknowledged that spiritual well-being is a protective factor for QOL. The strong positive correlation between spirituality and QOL emphasizes the need to integrate spiritual care into cancer care.
-    
-
-
-          Implications for nursing practice:
-        
-      
-      It is imperative to incorporate spirituality into health practice and the daily routines of cancer treatment for patients whose spirituality is an important aspect of their identities. The incorporation of spirituality can contribute to the improvement of the quality of patients' life and quality of cancer care.
+      The course "The Patient as Teacher" presents a valuable tool for experiential learning in palliative care, which has elicited an unceasingly positive response among the students who participated over the years. It has facilitated medical students in overcoming insecurities in dealing with terminally ill patients and supported them in further developing their professional identity.

@@ -1,27 +1,55 @@
-"The patient as teacher" - thematic analysis of undergraduate medical students' experiences with an experiential learning project in palliative care
+Comprehensive needs assessment tool for informal cancer caregivers (CNAT-ICs): Instrument development and cross-sectional validation study
 
 Background:
         
       
-      Experiential learning holds high potential for medical students' education in palliative care. At RWTH Aachen University in Germany, medical students can participate in the course "The Patient as Teacher" offering a one-to-one exchange with a terminally ill patient over a period of several weeks complemented with four supervision sessions and writing of a reflective essay. The course had run from 2005 to 2020 before it was paused due to the Covid-19 pandemic. This study aimed to assess the course's value as a palliative care teaching tool by investigating students' motivation and experiences over the years 2005-2020.
+      Growing cancer incidence and its subsequent burden is a worldwide concern. Needs assessment for caregivers has recently received growing attention, as it identifies specific unmet needs. The remaining tools have been established within the healthcare context of Western countries and have been studied only in some Asian populations; it seems appropriate to develop needs assessment tools that apply to a wider ethnic and socio-cultural context.
+    
+
+
+          Objective:
+        
+      
+      This study planned to adapt and examine the psychometric properties of the CNAT-C for the Sri Lankan informal caregivers for wider applicability.
+    
+
+
+          Design:
+        
+      
+      An instrument development and cross-sectional validation study was conducted.
+    
+
+
+          Setting:
+        
+      
+      Apeksha Hospital Maharagama, Sri Lanka (National Cancer Institute).
+    
+
+
+          Participants:
+        
+      
+      A sample of 226 informal caregivers (ICs) providing palliative care for patients with advanced cancer was selected.
     
 
 
           Methods:
         
       
-      A stratified sample of 24 essays was taken from all submitted essays (n = 78), eight essays from the years 2005-2009, 2010-2014, and 2015-2020. Subsequently, a thematic analysis of the selected essays was conducted.
+      A CNAT-C (41 items; seven factors) was incorporated and used after a cross-cultural adaptation following WHO guidelines after the permission and pilot test. ICs completed the socio-demographic and clinical details along with the validated Centre for Epidemiological Studies-Depression (CES-D), and the World Health Organization-Quality of Life-Brief (WHOQOL-BREF). Internal consistency and test-retest were used to check the reliability. Convergent and divergent validity of the Sinhala version of CNAT (S-CNAT) was confirmed using the CES-D scale and WHOQOL-BREF. Construct validity was evaluated using the exploratory factor analysis (EFA) and confirmatory factor analysis (CFA).
     
 
 
           Results:
         
       
-      The students felt motivated by the opportunity to gain more experience in palliative care, to improve their communication skills and to decrease insecurities in interaction with terminally ill patients. They learned about the patient's biography and medical history, and encountered physical, psychological, social, and spiritual dimensions of living with a life-limiting disease. Moreover, they experienced relationship building and communication with a terminally ill patient outside their role as future doctors. Ultimately, they considered their participation as a beneficial experience on both a personal and professional level.
+      Most of the participants were female (60 %) and married (72 %), and the mean age was 41.78 (SD+14.54). Face and content validity were established during the cross-cultural adaptation. Cronbach's alpha was 0.903 for the overall S-CNAT and the test-retest reliability was 0.965. The S-CNAT was associated positively with the CES-D while negatively with the WHOQOL-BREF. Both EFA and CFA discovered a structure contained seven factors (35 items); domain named as healthcare staff/nurses' support and information, physical/practical needs, medical officers' support, psychological needs, social/family support, spiritual/religious support, and hospital facilities/service.
     
 
 
           Conclusions:
         
       
-      The course "The Patient as Teacher" presents a valuable tool for experiential learning in palliative care, which has elicited an unceasingly positive response among the students who participated over the years. It has facilitated medical students in overcoming insecurities in dealing with terminally ill patients and supported them in further developing their professional identity.
+      The Sinhala version of CNAT is shown to have adequate validity and reliability in assessing the comprehensive and multidimensional/unmet needs of informal caregivers of patients with advanced cancer (S-CNAT-ICs). It would be a helpful tool to determine the unmet needs of ICs and guide future interventions to meet those needs and enhance or maintain the quality of life for patients and their informal caregivers.

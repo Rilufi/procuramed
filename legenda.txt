@@ -1,3 +1,34 @@
-An Application of Yagna Pathy: A Spiritual, Cost-Effective, Indigenous Low-Intensity Psychological Intervention to Manage Common Mental Disorders: A Cross-Sectional Pilot Study in India
+Correlation of nurses' perception of spirituality and spiritual care with spiritual care practices in Indonesia: A cross-sectional survey
 
-Elements of Common Mental Disorders (CMD) like stress, depression and anxiety are significant contributors to the global burden of disease. Even though they affect people at all socioeconomic levels, most of those in the low-income and middle-income populations lack access to efficient psychological and pharmaceutical interventions. One potential solution to this issue is the application of indigenous low-intensity psychological interventions like Yagna Pathy. The current cross sectional pilot study includes a total of 426 heterogenous group of people suffering from Stress, Anxiety and Depression (both in normal and diseased range) received Yagna pathy for 30 days. The severity of the stress, anxiety and depression was evaluated using a validated depression, anxiety, and stress (DAS) score questionnaire. A significant association (chi square, p < 0.001) was found between the mental healing with gender and activity status of the participants. Strong inter-correlation (R2 > 0.7; p < 0.001) among features of stress, anxiety and depression also proved the manifoldness of the CMD. Improvements in DAS scores demonstrate the effectiveness of a well-directed Yagna practice maintained for a predetermined amount of time in managing stress, anxiety, and depression. The receiver operating characteristic (ROC) of the responses was also found to be "excellent". Therefore, the study showcased that indigenous practices like Yagna Pathy could effectively minimize the severity of CMD. This approach is non-medicated, non-invasive, and cost-effective, making it a practicable therapy for global implementation.
+Background:
+        
+      
+      Spiritual care is essential to nursing practice, contributing to holistic patient care. However, the relationship between nurses' perceptions of spirituality and spiritual care with their engagement in spiritual care practices remains underexplored, particularly in Indonesia. Understanding this relationship is crucial for enhancing the quality of care provided to patients.
+    
+
+
+          Objective:
+        
+      
+      This study aimed to examine the correlation between nurses' perceptions of spirituality and spiritual care with their spiritual care practices in Indonesia.
+    
+
+
+          Methods:
+        
+      
+      A cross-sectional survey design was employed, involving a total of 300 nurses working in healthcare facilities across Indonesia. Data were collected via an online survey conducted from March to May 2024, using validated questionnaires: the Indonesian adaptation of the Spirituality and Spiritual Care Rating Scale (SSCRS) and the Nurse Spiritual Care Therapeutic Scale (NSCTS). Spearman Rank Correlation was used to assess the relationship between nurses' perceptions of spirituality and their engagement in spiritual care practices.
+    
+
+
+          Results:
+        
+      
+      The study found that nurses held a positive perception of spirituality, with a mean score of 3.85 (SD = 0.41) regarding statements related to spirituality and spiritual care. However, they reported providing spiritual care only occasionally, with an average frequency of 3-6 times over a 72 to 80-hour work period. There was a significant positive correlation (r = 0.235, p <0.001) of nurses' perception of spirituality and spiritual care with their engagement in spiritual care practices.
+    
+
+
+          Conclusion:
+        
+      
+      The study highlights the need for targeted education and training to enhance nurses' competencies in spiritual care practices. Addressing spiritual needs is vital for holistic patient care, and improving nurses' perceptions and practices in this area can significantly benefit patient well-being.

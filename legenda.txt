@@ -1,34 +1,27 @@
-Correlation of nurses' perception of spirituality and spiritual care with spiritual care practices in Indonesia: A cross-sectional survey
+Participants' Perspectives on Diabetes Self-Management Programming at Church: Faith-Placed Versus Faith-Based Approach
 
-Background:
+Purpose:
         
       
-      Spiritual care is essential to nursing practice, contributing to holistic patient care. However, the relationship between nurses' perceptions of spirituality and spiritual care with their engagement in spiritual care practices remains underexplored, particularly in Indonesia. Understanding this relationship is crucial for enhancing the quality of care provided to patients.
-    
-
-
-          Objective:
-        
-      
-      This study aimed to examine the correlation between nurses' perceptions of spirituality and spiritual care with their spiritual care practices in Indonesia.
+      The purpose of the study was to explore Hispanic adults' experiences participating in the Building a Healthy Temple diabetes self-management education and support (DSMES) cluster randomized trial and collect their insights on intervention approach, delivery, content, impact, and suggested improvements for future DSMES programs delivered at church.
     
 
 
           Methods:
         
       
-      A cross-sectional survey design was employed, involving a total of 300 nurses working in healthcare facilities across Indonesia. Data were collected via an online survey conducted from March to May 2024, using validated questionnaires: the Indonesian adaptation of the Spirituality and Spiritual Care Rating Scale (SSCRS) and the Nurse Spiritual Care Therapeutic Scale (NSCTS). Spearman Rank Correlation was used to assess the relationship between nurses' perceptions of spirituality and their engagement in spiritual care practices.
+      Focus groups were conducted with participants from both intervention arms, that is, faith-based (FB) group and faith-placed group. Participating churches were predominantly Hispanic and located in San Antonio, Texas. Focus groups were audiotaped and transcribed verbatim. Inductive content analysis was performed with the assistance of NVivo software to code and categorize emerging themes.
     
 
 
           Results:
         
       
-      The study found that nurses held a positive perception of spirituality, with a mean score of 3.85 (SD = 0.41) regarding statements related to spirituality and spiritual care. However, they reported providing spiritual care only occasionally, with an average frequency of 3-6 times over a 72 to 80-hour work period. There was a significant positive correlation (r = 0.235, p <0.001) of nurses' perception of spirituality and spiritual care with their engagement in spiritual care practices.
+      A total of 138 adult participants took part in the current study. Participants in both groups highly valued the church setting for its convenient location and support system and reported positive changes in diabetes-related beliefs, knowledge, skills, behaviors, and health outcomes. FB participants appreciated the incorporation of spiritual teachings and facilitation by lay leaders, which created a sense of empowerment and improved outlook on living with diabetes.
     
 
 
-          Conclusion:
+          Conclusions:
         
       
-      The study highlights the need for targeted education and training to enhance nurses' competencies in spiritual care practices. Addressing spiritual needs is vital for holistic patient care, and improving nurses' perceptions and practices in this area can significantly benefit patient well-being.
+      Church holds promise as a setting for DSMES program delivery in Hispanic communities. Church-based DSMES programs using a FB approach may further facilitate program adoption and sustainability.

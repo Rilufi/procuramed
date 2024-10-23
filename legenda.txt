@@ -1,3 +1,62 @@
-Chaplain care for health care colleagues: a scoping review
+In-Center Hemodialysis Experiences Among Latinx Adults: A Qualitative Study
 
-In addition to supporting patients and their loved ones at critical times, chaplains have long understood that caring for their health care colleagues is an important part of their practice. The Covid-19 pandemic prompted conversations among chaplains about how best to address the stress they were observing in health care workers. Our team conducted a scoping review in PubMed and CINAHL of peer reviewed literature describing chaplaincy care for health care workers. We started with 364 unique articles and found 59 that met criteria for the review. Five themes surfaced in analysis of these articles, with two themes emerging as most important: (1) descriptions of care for staff as part of the chaplain's role, especially when staff are making difficult decisions and (2) reports of the effects of chaplain care for staff, both indirect and direct. We discovered that research was limited, and more research is needed regarding chaplain care for health care colleagues.
+Rationale & objective:
+        
+      
+      Latinx individuals are more likely to start and remain receiving in-center hemodialysis, over home dialysis, than non-Latinx White individuals. The objective of our study was to understand the drivers of sustained in-center dialysis and deterrents of switching to home dialysis use for Latinx individuals receiving in-center dialysis.
+    
+
+
+          Study design:
+        
+      
+      This qualitative study used semistructured one-on-one interviews.
+    
+
+
+          Setting and participants:
+        
+      
+      Latinx adults receiving in-center hemodialysis therapy at 2 urban dialysis clinics in Denver, Colorado between November 2021 and March 2023.
+    
+
+
+          Exposures:
+        
+      
+      In-center hemodialysis, Latinx ethnicity.
+    
+
+
+          Outcomes:
+        
+      
+      Qualitative.
+    
+
+
+          Analytical approach:
+        
+      
+      Interviews were analyzed with thematic analysis using inductive coding. Theoretical framework development used principles of grounded theory.
+    
+
+
+          Results:
+        
+      
+      In total, 25 Latinx adults (10 [40%] female and 15 [60%] male) receiving in-center hemodialysis therapy participated. One theme demonstrated that Latinx individuals experienced hardship with in-center dialysis but used Latinx values to persevere: Psychosocial resilience using Latinx cultural values (faith and spiritual coping, belief in predestination and acceptance, optimism and positive attitude toward treatment, and positive relationships with health care professionals and peers). Two themes illustrate barriers to starting or switching to home dialysis: Insufficient knowledge of kidney replacement therapy (lack of awareness of kidney disease, lack of preparation for dialysis) and Barriers to patient-centered decision making in dialysis treatment (lack of peer perspective to guide dialysis decision making, fear and apprehension of home dialysis, lack of socioemotional support, perception of housing issues).
+    
+
+
+          Limitations:
+        
+      
+      Most participants were from the same geographic area and country of origin, and some may have been uninsured because of immigration status.
+    
+
+
+          Conclusions:
+        
+      
+      As Latinx people are less likely to be treated with home dialysis modalities, this study offers important context as to what factors drove sustained in-center dialysis use for this population. Coping mechanisms that promoted resilience with in-center dialysis treatment motivated individuals to remain on in-center hemodialysis, and positive dialysis relationships in the dialysis center strengthened this experience. Switching to home dialysis is hindered by lack of knowledge as well as lack of patient-centered dialysis decision making. Understanding the drivers of sustained in-center hemodialysis use for Latinx individuals is important for future efforts at improving patient-centered education, framing conversations around modality choice, and care for this population.

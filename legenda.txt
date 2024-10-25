@@ -1,27 +1,27 @@
-A Survey of Surrogates and Health Care Professionals Indicates Support of Cognitive Motor Dissociation-Assisted Prognostication
+Challenges and opportunities for strengthening palliative care services in primary healthcare facilities: perspectives of health facilities in-charges in Dar es Salaam, Tanzania
 
 Background:
         
       
-      Prognostication of patients with acute disorders of consciousness is imprecise but more accurate technology-supported predictions, such as cognitive motor dissociation (CMD), are emerging. CMD refers to the detection of willful brain activation following motor commands using functional magnetic resonance imaging or machine learning-supported analysis of the electroencephalogram in clinically unresponsive patients. CMD is associated with long-term recovery, but acceptance by surrogates and health care professionals is uncertain. The objective of this study was to determine receptiveness for CMD to inform goals of care (GoC) decisions and research participation among health care professionals and surrogates of behaviorally unresponsive patients.
+      With the rise of non-communicable diseases in Tanzania, palliative care (PC) is increasingly needed to improve the quality of life for these patients through pain and symptom management and providing psychological care, social and spiritual support. Despite a larger portion of the population having access to healthcare services at primary healthcare (PHC) facilities in Tanzania, PC services are limited and less organised at this level. This study explored the challenges facing the provision of PC and the opportunities for strengthening PC services at PHC facilities in Tanzania.
     
 
 
           Methods:
         
       
-      This was a two-center study of surrogates of and health care professionals caring for unconscious patients with severe neurological injury who were enrolled in two prospective US-based studies. Participants completed a 13-item survey to assess demographics, religiosity, minimal acceptable level of recovery, enthusiasm for research participation, and receptiveness for CMD to support GoC decisions.
+      We adopted an exploratory qualitative case study to conduct in-depth interviews with 15 health facilities in charge from 15 purposefully selected PHC facilities in Dar es Salaam City, Tanzania, in August 2023. We analysed the gathered information using qualitative content analysis.
     
 
 
           Results:
         
       
-      Completed surveys were obtained from 196 participants (133 health care professionals and 63 surrogates). Across all respondents, 93% indicated that they would want their loved one or the patient they cared for to participate in a research study that supports recovery of consciousness if CMD were detected, compared to 58% if CMD were not detected. Health care professionals were more likely than surrogates to change GoC with a positive (78% vs. 59%, p = 0.005) or negative (83% vs. 59%, p = 0.0002) CMD result. Participants who reported religion was the most important part of their life were least likely to change GoC with or without CMD. Participants who identified as Black (odds ratio [OR] 0.12, 95% confidence interval [CI] 0.04-0.36) or Hispanic/Latino (OR 0.39, 95% CI 0.2-0.75) and those for whom religion was the most important part of their life (OR 0.18, 95% CI 0.05-0.64) were more likely to accept a lower minimum level of recovery.
+      Two categories emerged from the analysis of the gathered information. These are (1) challenges facing the provision of PC services at PHC facilities and (2) opportunities for strengthening PC services at PHC facilities. The challenges are grouped as provider-level, facility-level and patient-level challenges. The opportunities are organised into three subcategories. These are the increasing demand for PC services, the availability of multiple supporting systems and a functional referral system.
     
 
 
-          Conclusions:
+          Conclusion:
         
       
-      Technology-supported prognostication and enthusiasm for clinical trial participation was supported across a diverse spectrum of health care professionals and surrogate decision-makers. Education for surrogates and health care professionals should accompany integration of technology-supported prognostication.
+      This study underscores the challenges and opportunities for providing PC services at PHC facilities. These findings call for a collaborative effort from health system players to strengthen the available PC services. The efforts should include expanding the coverage of PC services at the PHC facilities and healthcare providers' training. Expansion of PC services should include introducing them in places where they are unavailable and improving them where they are not available. PC training should consider preservice training in the health training institutions' curricula and continued medical education to the existing staff. Furthermore, we recommend community health education to raise awareness of PC services.

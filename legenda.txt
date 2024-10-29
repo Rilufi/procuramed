@@ -1,3 +1,41 @@
-The Expanding Role of United States Healthcare Chaplains in Clinical Ethics
+Effectiveness of spiritual care interventions among patients in the intensive care unit: A systematic review and meta-analysis
 
-Healthcare chaplains in the United States increasingly report being tasked by their organizations to participate in the formal work of clinical ethics, by serving on ethics committees, performing clinical ethics consultations, or leading clinical ethics programs. This mapping study documents that professionally-trained chaplains possess a number of skills and attributes that enhance their capability for this work; however, they often lack certain knowledge specific to the discipline of clinical ethics that is needed for roles they are being asked to perform. The professional associations of both chaplaincy and clinical ethics are encouraged to address this educational gap for the benefit of both disciplines.
+Background:
+        
+      
+      Spiritual care interventions can be an important source of emotional support for patients in the intensive care unit (ICU). However, there is wide variation in the literature and no quantitative assessment to synthesize the results of these studies.
+    
+
+
+          Aim:
+        
+      
+      To examine the effectiveness of spiritual care interventions on disease-related physiological parameter and treatment outcomes and psychosocial well-being outcomes among patients in the ICU.
+    
+
+
+          Study design:
+        
+      
+      A comprehensive search was conducted across 11 databases from inception to 27 May 2024. Studies involving the implementation of spiritual care interventions for patients in the ICU were included. Cochrane's bias risk tool and JBI Critical Appraisal Checklist were used to examine the methodological quality of included studies. Review Manager 5.3 was used to conduct meta-analyses.
+    
+
+
+          Results:
+        
+      
+      A total of 18 studies were included. Meta-analysis showed that spiritual care interventions could significantly reduce mean arterial pressure (MAP) (MD: -12.12, 95% CI: [-23.68, -0.56], p = .04), length of stay in the ICU (MD: -5.49, 95% CI: [-8.99, -2.00], p = .002), and improved consciousness (MD: 3.91, 95% CI: [1.42, 6.39], p = .002), anxiety (SMD: -1.78, 95% CI: [-3.06, -0.50], p = .006), spiritual well-being (SMD: 1.57, 95% CI: [0.05, 3.08], p = .04) and comfort (MD: 15.53, 95% CI: [10.81, 20.25], p < .01) among patients in the ICU, but had no significant effects on heart rate (HR), respiratory rate (RR), pulse rate (PR), blood pressure (BP), oxygen saturation (SpO2), duration of ventilator use and pain.
+    
+
+
+          Conclusions:
+        
+      
+      Spiritual care interventions could reduce MAP and length of stay in the ICU; improve consciousness, anxiety, spiritual well-being and comfort among patients in the ICU; and are still inconclusive for HR, RR, PR, BP, SpO2, duration of ventilator use and pain. Urgent efforts are needed to better integrate spiritual care interventions into clinical care to enhance patient well-being.
+    
+
+
+          Relevance to clinical practice:
+        
+      
+      Spiritual care interventions could improve well-being of patients in the ICU.

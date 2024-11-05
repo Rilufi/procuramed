@@ -1,3 +1,27 @@
-Health workers' perceptions of epilepsy and its treatment implications: A survey of nurses and other healthcare workers' in Addis Ababa, Ethiopia
+Factors influencing the ability of family caregivers of Alzheimer's patients within Iranian families to continue and persist in their caregiving roles: a qualitative study
 
-In Ethiopia, the epilepsy knowledge gap among healthcare workers remains high. In this study, we conducted a survey among health care workers in Addis Ababa, Ethiopia, exploring their knowledge, attitudes, beliefs, and perceptions about social inclusion and exclusion regarding epilepsy. Furthermore, we analysed if and how these factors influence the management and quality of care provided. During a training workshop, 50 participants completed the survey. Nurses made up 22% of the participants, midwives comprised 11%, health officers constituted 16%, and medical officers represented 4%. Of the respondents, 69% were male, and 59% had experience in treating patients with epilepsy. This study showed that while 51% of respondents correctly identified epilepsy as being diagnosed after two seizures, many were uncertain about the criteria. Although 90% believed epilepsy is treatable, some were unsure or held misconceptions. Regarding its contagiousness, 82% correctly stated it is not contagious, but some held incorrect beliefs. Treatment options varied, with most recognizing clinical medicines, but some still believed in alternative methods like spiritual or herbal healing. Additionally, understanding of person-centered care was lacking, with several respondents admitting they were unfamiliar with the concept. The factors contributing to the epilepsy treatment gap in Ethiopia were a lack of comprehensive knowledge among healthcare workers about epilepsy, misconceptions such as the belief that epilepsy is contagious, inadequate management practices, challenges in accessing and securing medications due to shortages, and limited community awareness about the condition. Additionally, the study exposed a concerning gap in understanding of person-centered care among some healthcare workers. This study underscores the urgent need for targeted training programs, healthcare policies, and community awareness initiatives to enhance the quality of care for individuals with epilepsy in Ethiopia and similar settings.
+Background:
+        
+      
+      Understanding the motivations driving family members to continue caring for individuals with Alzheimer's disease is crucial for enhancing social support programs within community health systems. This study specifically explores the factors influencing Iranian family caregivers' ability to persist in their caregiving roles.
+    
+
+
+          Methods:
+        
+      
+      This qualitative study was conducted using conventional content analysis with 22 participants in 2022 in Babol (a city in northern Iran). The inclusion criteria for the study included caregivers of Alzheimer's patients who had been the primary caregivers for at least one year for patients with a confirmed diagnosis of Alzheimer's disease. The sampling method was purposive, ensuring maximum variation in social position, demographic status, and stages of Alzheimer's disease after the onset of symptoms. In this research, data were collected from caregivers of Alzheimer's patients through semi-structured interviews and in-depth individual interviews. The data were analyzed using MAXQDA software.
+    
+
+
+          Results:
+        
+      
+      One category and four subcategories were identified to explain the continuity of the caring role in family caregivers of Alzheimer's patients. The category was "on the Fence of the Caring Role." The subcategories included Commitment to Care (Being Determined, Being Indebted, Feeling Dutiful), Coercion to Care (Giving in to the Caring Role Due to Family Requirements, Patient Care Due to Financial Problems), Socio-Cultural Beliefs and Concerns (Spiritual and Religious Tendencies, Social Stigma and Social Fears), and Attachment and Love for the Patient (Feeling Pity, Feeling Nostalgia for Kinship).
+    
+
+
+          Conclusion:
+        
+      
+      Family caregivers are deeply engaged in their roles, often feeling trapped by various pressures. Recognizing these dimensions can inform policymakers and health practitioners in developing targeted interventions, such as respite care programs, financial support, and community resources, aimed at alleviating caregiver burden and enhancing the quality of care for patients. By addressing the complexities of the caregiver experience, effective strategies can be implemented to support both patients and their caregivers, ultimately improving health outcomes within the community.

@@ -1,27 +1,34 @@
-Factors influencing the ability of family caregivers of Alzheimer's patients within Iranian families to continue and persist in their caregiving roles: a qualitative study
+The mediating role of surface and deep acting and the moderating effect of occupational identity in workplace violence and sleep quality among psychiatric nurses: a cross-sectional study
 
 Background:
         
       
-      Understanding the motivations driving family members to continue caring for individuals with Alzheimer's disease is crucial for enhancing social support programs within community health systems. This study specifically explores the factors influencing Iranian family caregivers' ability to persist in their caregiving roles.
+      Psychiatric nurses often encounter patients with mental health disorders and consequently experience prolonged periods of high stress, increased workload, and frequent incidents of workplace violence. These aspects can lead to a higher incidence of poor sleep quality. This study examined the interplay between workplace violence and emotional labour (surface and deep acting) to suggest measures for enhancing sleep quality among psychiatric nurses.
     
 
 
           Methods:
         
       
-      This qualitative study was conducted using conventional content analysis with 22 participants in 2022 in Babol (a city in northern Iran). The inclusion criteria for the study included caregivers of Alzheimer's patients who had been the primary caregivers for at least one year for patients with a confirmed diagnosis of Alzheimer's disease. The sampling method was purposive, ensuring maximum variation in social position, demographic status, and stages of Alzheimer's disease after the onset of symptoms. In this research, data were collected from caregivers of Alzheimer's patients through semi-structured interviews and in-depth individual interviews. The data were analyzed using MAXQDA software.
+      A total of 300 completed and valid online questionnaires were collected. The Pittsburgh Sleep Quality Index was used to measure sleep quality, Workplace Violence Scale (WVS) to measure the occurrence of workplace violence, and Emotional Labour Scale to measure surface and deep acting. The data were analysed using Hayes' PROCESS macro with SPSS. Independent samples t-tests and one-way ANOVA were used to compare differences in sleep quality and emotional labour (surface and deep acting) between psychiatric nurses with different demographics.
     
 
 
           Results:
         
       
-      One category and four subcategories were identified to explain the continuity of the caring role in family caregivers of Alzheimer's patients. The category was "on the Fence of the Caring Role." The subcategories included Commitment to Care (Being Determined, Being Indebted, Feeling Dutiful), Coercion to Care (Giving in to the Caring Role Due to Family Requirements, Patient Care Due to Financial Problems), Socio-Cultural Beliefs and Concerns (Spiritual and Religious Tendencies, Social Stigma and Social Fears), and Attachment and Love for the Patient (Feeling Pity, Feeling Nostalgia for Kinship).
+      The prevalence of poor sleep quality (PSQI > 5) was 55% among the nurses. Surface acting in emotional labour partially mediated the relationship between workplace violence and sleep quality(a1*b1=0.035,95%CI: 0.002, 0.079), whereas deep acting had a suppressive effect(a2*b2=-0.033,95%CI: -0.071, -0.003). Occupational identity had a positive moderating effect on the relationship between workplace violence and surface acting(Effect=0.091,95%CI: 0.004, 0.179).
     
 
 
-          Conclusion:
+          Conclusions:
         
       
-      Family caregivers are deeply engaged in their roles, often feeling trapped by various pressures. Recognizing these dimensions can inform policymakers and health practitioners in developing targeted interventions, such as respite care programs, financial support, and community resources, aimed at alleviating caregiver burden and enhancing the quality of care for patients. By addressing the complexities of the caregiver experience, effective strategies can be implemented to support both patients and their caregivers, ultimately improving health outcomes within the community.
+      The relationship between workplace violence and poor sleep quality was partially mediated by surface acting and suppressed by deep acting. Moreover, nurses with higher occupational identity engaged in more surface acting after workplace violence. Workplace violence, surface acting, and deep acting emerged as significant factors influencing sleep quality among psychiatric nurses. Deep acting can reduce the impact of workplace violence on sleep quality. The results provide a new and expanded view of the interplay between workplace violence and emotional labour concerning sleep quality. Interprofessional collaboration with clinicians, administrators, educators, and spiritual leaders can contribute to the development of related education and training.
+    
+
+
+          Trial registration:
+        
+      
+      Chinese Clinical Trial Registry ChiCTR2200062347. https://www.chictr.org.cn/showproj.html?proj=173264.
